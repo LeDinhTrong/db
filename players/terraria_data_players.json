@@ -1,631 +1,610 @@
 [
     {
-        "id": "a1596587-05b3-4cc3-9be3-fac56507c81b",
-        "type_id": "1",
-        "name": "Ellie",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1YJF6a1Wipn4agZhle1V7JEU2R_LW_Tnf",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1YJF6a1Wipn4agZhle1V7JEU2R_LW_Tnf"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1U3Pm9QfGmo91drdxbm5Gbb8YMTKcAbWN",
-            "1": "https://drive.google.com/uc?export=view&id=1E-C9AxCY5mq4jMGlnZtGkm2vYxWwO6JB",
-            "2": "https://drive.google.com/uc?export=view&id=1p0tyKxoXFaaj05zcfjPG448KoDa7ilkK",
-            "3": "https://drive.google.com/uc?export=view&id=14M2P2taWcUBTdBvZO4Ek6-ekyqOo-wCc"
-        },
-        "author_name": "ldtr",
-        "description": "",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "a1596587-05b3-4cc3-9be3-fac56507c81b",
+      "type_id": "1",
+      "name": "Ellie",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ellie/Ellie.png",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ellie/Ellie.png"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ellie/EllieJourney.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ellie/EllieClassic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ellie/EllieMedium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ellie/EllieHardcore.plr"
+      },
+      "author_name": "ldtr",
+      "description": "",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "989063cd-f003-4bb7-b3f8-7389f65e76ef",
-        "type_id": "1",
-        "name": "Alice",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1ZznX33QiU5F-eLAUjETxo4MWc59EY95I",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1ZznX33QiU5F-eLAUjETxo4MWc59EY95I"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1Ny3WTLF2XcZesocRMrFCQf_F3GU5qgaO",
-            "1": "https://drive.google.com/uc?export=view&id=1ScUI-CZF_3DTknuhKn-_CL9PTg8T1kzw",
-            "2": "https://drive.google.com/uc?export=view&id=1Fcr9tfyQ0Q5dzlaIQy0k-wynIzSVWmvj",
-            "3": "https://drive.google.com/uc?export=view&id=1cSJBVJjB4Rledg7bEH546Id5vXSvHs2X"
-        },
-        "author_name": "Destroyer 106",
-        "description": "Alice is an experimental character with a fairly large damage absorption as much as 200% of any damage converted into a unit of damage, has good equipment and regeneration in stock.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "989063cd-f003-4bb7-b3f8-7389f65e76ef",
+      "type_id": "1",
+      "name": "Alice",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Alice/alice.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Alice/alice.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Alice/Alice-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Alice/Alice-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Alice/Alice-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Alice/Alice-Hardcore.plr"
+      },
+      "author_name": "Destroyer 106",
+      "description": "Alice is an experimental character with a fairly large damage absorption as much as 200% of any damage converted into a unit of damage, has good equipment and regeneration in stock.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "f75814b4-55b2-4c9c-b034-203ef4be0f94",
-        "type_id": "1",
-        "name": "DIO",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1Wep-IMGdyZEn9dDOCErXYqzOm3S6810n",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1Wep-IMGdyZEn9dDOCErXYqzOm3S6810n"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1ipHU7FJh00BogbNplXF-88zh_tE4Ufyn",
-            "1": "https://drive.google.com/uc?export=view&id=19oBxhEG1aDrDxnnuIN8AH-EjRNEQjL2x",
-            "2": "https://drive.google.com/uc?export=view&id=1l_OyZyMMY_aLpPvrCgaz8kNepBSMzabA",
-            "3": "https://drive.google.com/uc?export=view&id=1WttbL_TR4vDE_dcI2B_9TDrV5tM7XzUt"
-        },
-        "author_name": "Serg050",
-        "description": "Character DIO from JoJo's bizarre adventure. The character is NOT for survival, but for show. There are righteous vampire knives, a superb bloodthorn, a full set of stardust armor, amphibious boots, a rampant gauntlet of power, and a celestial emblem.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "f75814b4-55b2-4c9c-b034-203ef4be0f94",
+      "type_id": "1",
+      "name": "DIO",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/DIO/dio.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/DIO/dio.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/DIO/DIO-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/DIO/DIO-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/DIO/DIO-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/DIO/DIO-Hardcore.plr"
+      },
+      "author_name": "Serg050",
+      "description": "Character DIO from JoJo's bizarre adventure. The character is NOT for survival, but for show. There are righteous vampire knives, a superb bloodthorn, a full set of stardust armor, amphibious boots, a rampant gauntlet of power, and a celestial emblem.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "3a8bf294-15c7-41db-9ec9-b714887b9839",
-        "type_id": "1",
-        "name": "Efloitly",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1bN0zZa5orX9DCI4cHefS-5H_ylQohCT6",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1bN0zZa5orX9DCI4cHefS-5H_ylQohCT6"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1OfiwFL3HOFuAK_kALn6zAGd0oAq0pGpV",
-            "1": "https://drive.google.com/uc?export=view&id=1KYZSpWTDI_Xm8vP9Q7t4khHuRvNG73-1",
-            "2": "https://drive.google.com/uc?export=view&id=1_jiiO3qQMiDNS-FRDpGYq4sdvhttD-Yr",
-            "3": "https://drive.google.com/uc?export=view&id=1OZUbozfSoi0bdf5HGdOd1zYpM9P26CLH"
-        },
-        "author_name": "ErAnGames",
-        "description": "Efloitly. Has an assassin outfit and dark armor. There are a lot of interesting things in the inventory. There are three summonable creatures to choose from: a cat in a hat, a dog, and a cube with a heart in the middle. There are also many powerful weapons. There is a caramel sword and Terraformer. And many more.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "3a8bf294-15c7-41db-9ec9-b714887b9839",
+      "type_id": "1",
+      "name": "Efloitly",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Efloitly/Efloitly.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Efloitly/Efloitly.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Efloitly/Efloitly-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Efloitly/Efloitly-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Efloitly/Efloitly-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Efloitly/Efloitly-Hardcore.plr"
+      },
+      "author_name": "ErAnGames",
+      "description": "Efloitly. Has an assassin outfit and dark armor. There are a lot of interesting things in the inventory. There are three summonable creatures to choose from: a cat in a hat, a dog, and a cube with a heart in the middle. There are also many powerful weapons. There is a caramel sword and Terraformer. And many more.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "9ba98644-3038-4f02-9d41-a3e1a5a443af",
-        "type_id": "1",
-        "name": "Banana",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1kBe6aLaLZzgvJG6-q8btgHfSrNb5fWC9",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1kBe6aLaLZzgvJG6-q8btgHfSrNb5fWC9"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1E2WEUcJMCffNa0aqCYu4EtvFzi1xRIeW",
-            "1": "https://drive.google.com/uc?export=view&id=1lMRW2xhzobImRReOg-uxkMU6zAIbxDDq",
-            "2": "https://drive.google.com/uc?export=view&id=10iIb-cMTJZeouSAamGHRWX5jhEmw3wAD",
-            "3": "https://drive.google.com/uc?export=view&id=1MZEqH_QR5xOCdZADmswi9OhEkSxs42F2"
-        },
-        "author_name": "Jonny Joestar",
-        "description": "A neighbor with a zenith and many potions and a very strong one for a very long time I shook and in general gacha torment. The top character is suitable for killing bosses\nMoon lord is given without problems",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "9ba98644-3038-4f02-9d41-a3e1a5a443af",
+      "type_id": "1",
+      "name": "Banana",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Banana/Banana.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Banana/Banana.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Banana/Banana-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Banana/Banana-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Banana/Banana-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Banana/Banana-Hardcore.plr"
+      },
+      "author_name": "Jonny Joestar",
+      "description": "A neighbor with a zenith and many potions and a very strong one for a very long time I shook and in general gacha torment. The top character is suitable for killing bosses\nMoon lord is given without problems",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "889f0f05-e01c-4d68-941b-c09af85e93c5",
-        "type_id": "1",
-        "name": "Strelok4",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1bjA863Qo9WnPNBJfcNYMqQZNLTkC4sEV",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1bjA863Qo9WnPNBJfcNYMqQZNLTkC4sEV"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1lxooaLoyw0eJIZfGIHWq00gqhDahb69B",
-            "1": "https://drive.google.com/uc?export=view&id=1XvNj8IHp7MyAAARMSPouUNNeaOyyh11v",
-            "2": "https://drive.google.com/uc?export=view&id=1ifqYMKWZ1_POrNm_mxdsjIIooRfLGGPE",
-            "3": "https://drive.google.com/uc?export=view&id=1Xd08Jg1CMRTnPRbSDGLTmUOCFsLspvFX"
-        },
-        "author_name": "unknown",
-        "description": "The character is a semi-cyborg shooter type. With a normal set of pieces. The weapons are varied, the equipment is simple. There are cool tricks. Whirlwind armor is present.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "889f0f05-e01c-4d68-941b-c09af85e93c5",
+      "type_id": "1",
+      "name": "Strelok4",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Strelok4/Strelok4.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Strelok4/Strelok4.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Strelok4/Strelok4-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Strelok4/Strelok4-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Strelok4/Strelok4-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Strelok4/Strelok4-Hardcore.plr"
+      },
+      "author_name": "unknown",
+      "description": "The character is a semi-cyborg shooter type. With a normal set of pieces. The weapons are varied, the equipment is simple. There are cool tricks. Whirlwind armor is present.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "7d3d8abf-4b30-4c2f-8a42-d32ef9adde72",
-        "type_id": "1",
-        "name": "Zelyevar",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1xARlTEt5j47AS9Mi-70G1glTlMcJPTtt",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1xARlTEt5j47AS9Mi-70G1glTlMcJPTtt"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1Oxz-OL57i8ufLn0T-ZAHCsaGH2u9anBv",
-            "1": "https://drive.google.com/uc?export=view&id=1MUbNVJg4SW1VQjo46DsS6f1NJuJBmSuR",
-            "2": "https://drive.google.com/uc?export=view&id=1lUfagMM9Whf3Sd497kQ-xSbSjUrX_xLt",
-            "3": "https://drive.google.com/uc?export=view&id=1KV5W8inS_XrdlWlwcotCW-xlkOqUjRQJ"
-        },
-        "author_name": "unknown",
-        "description": "A character with good equipment, a lot of different goodies, including the Zenith sword. The main feature of the character is that he has a bunch of different potions in large quantities. My first Persian. Do not judge strictly.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "7d3d8abf-4b30-4c2f-8a42-d32ef9adde72",
+      "type_id": "1",
+      "name": "Zelyevar",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Zelyevar/Zelyevar.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Zelyevar/Zelyevar.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Zelyevar/Zelyevar-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Zelyevar/Zelyevar-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Zelyevar/Zelyevar-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Zelyevar/Zelyevar-Hardcore.plr"
+      },
+      "author_name": "unknown",
+      "description": "A character with good equipment, a lot of different goodies, including the Zenith sword. The main feature of the character is that he has a bunch of different potions in large quantities. My first Persian. Do not judge strictly.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "deae9215-ed11-407a-9388-7e33a2c66d85",
-        "type_id": "1",
-        "name": "NN",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1DbnUGTXiWS-bcCUPXgCQlyzz3UGZ0R89",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1DbnUGTXiWS-bcCUPXgCQlyzz3UGZ0R89"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1yyQGGuiG4CW4xaA1wwQNNtfsPTAnBt__",
-            "1": "https://drive.google.com/uc?export=view&id=19DHuN0EADmIXGra7Th8O39fyuZQEKjVQ",
-            "2": "https://drive.google.com/uc?export=view&id=1FmTE7gRGGLFcFrlUZZGmFpykObSoSkE5",
-            "3": "https://drive.google.com/uc?export=view&id=1t9QOqVAkhZcbNATF-XIUNn7Y7NrjSba6"
-        },
-        "author_name": "unknown",
-        "description": "This character is named because I was too lazy to come up with a nickname, but with this Persian I have played more than 2k hours, it is very important for me on the Persian there is an assembly of a warrior archer and a summoner (the summoner is the strongest)",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "deae9215-ed11-407a-9388-7e33a2c66d85",
+      "type_id": "1",
+      "name": "NN",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/NN/NN.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/NN/NN.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/NN/NN-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/NN/NN-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/NN/NN-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/NN/NN-Hardcore.plr"
+      },
+      "author_name": "unknown",
+      "description": "This character is named because I was too lazy to come up with a nickname, but with this Persian I have played more than 2k hours, it is very important for me on the Persian there is an assembly of a warrior archer and a summoner (the summoner is the strongest)",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "306d685c-d47e-43f1-a47e-e46fad63db2a",
-        "type_id": "1",
-        "name": "Tactician",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1_9275LgpH8-FPAzWbG9RrIl_AhzULxd8",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1_9275LgpH8-FPAzWbG9RrIl_AhzULxd8"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1YfzswIia1c_wzhq-wuz2DJUgV8yLhkGK",
-            "1": "https://drive.google.com/uc?export=view&id=1s0dkfX80CRAi8MnwH7AkT_7o1HTbsQDb",
-            "2": "https://drive.google.com/uc?export=view&id=1ZrFjiv1Ep9FxpIyqSTA4HHUJrWY9Ovnb",
-            "3": "https://drive.google.com/uc?export=view&id=1zTAY20nAg8I1ns-kKSc2jri5c8X5hahA"
-        },
-        "author_name": "Kostya",
-        "description": "Tactician contains Item Stacks.\nThe piggy bank contains everything for the arena (only important ones).\nAll kits contain everything you need.\nOnly the latter has no armor.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "306d685c-d47e-43f1-a47e-e46fad63db2a",
+      "type_id": "1",
+      "name": "Tactician",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Tactician/Tactician.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Tactician/Tactician.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Tactician/Tactician-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Tactician/Tactician-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Tactician/Tactician-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Tactician/Tactician-Hardcore.plr"
+      },
+      "author_name": "Kostya",
+      "description": "Tactician contains Item Stacks.\nThe piggy bank contains everything for the arena (only important ones).\nAll kits contain everything you need.\nOnly the latter has no armor.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "d8988b35-8a87-459d-a012-e350caa1a9bb",
-        "type_id": "1",
-        "name": "Zhorik",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1ve913sh-GvVAnljRNytHAj7NQqwIaF65",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1ve913sh-GvVAnljRNytHAj7NQqwIaF65"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1STe1FtH79KkrtgkQ9mqU1qHs-3FPropB",
-            "1": "https://drive.google.com/uc?export=view&id=1X57ulQrCdgohxND-saRgx1o-Cm9Nluvp",
-            "2": "https://drive.google.com/uc?export=view&id=1aZA8KvRuHDlfGTWJnH3qob2hEQVlcUpU",
-            "3": "https://drive.google.com/uc?export=view&id=1rwkTFwuL1NIv7inKFkedtNxJXA7c1Ff6"
-        },
-        "author_name": "Zhorik",
-        "description": "This character is very fierce, he has everything. Necklace Lilith, Zenith, Mayamur everything (well, not everything is straight, but there are normal things). The character has normal accessories also has good weapon damage (Zenith 450 damage).\nPlus there are a lot of things in the inventory (a lot). Well, everyone play to your health.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "d8988b35-8a87-459d-a012-e350caa1a9bb",
+      "type_id": "1",
+      "name": "Zhorik",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Zhorik/Zhorik.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Zhorik/Zhorik.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Zhorik/Zhorik-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Zhorik/Zhorik-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Zhorik/Zhorik-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Zhorik/Zhorik-Hardcore.plr"
+      },
+      "author_name": "Zhorik",
+      "description": "This character is very fierce, he has everything. Necklace Lilith, Zenith, Mayamur everything (well, not everything is straight, but there are normal things). The character has normal accessories also has good weapon damage (Zenith 450 damage).\nPlus there are a lot of things in the inventory (a lot). Well, everyone play to your health.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "1103c304-980b-496f-b086-de2cb55cd9a9",
-        "type_id": "1",
-        "name": "Ball",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=153fnBSc8zJtXHkRqRe_GOiQbXbYXdx8X",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=153fnBSc8zJtXHkRqRe_GOiQbXbYXdx8X"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1jiJb1wRxZBcWurbIj_YKyJudJZL715th",
-            "1": "https://drive.google.com/uc?export=view&id=1saaHvPJ9kkvNZuBjJ0WZ5cB4uCmWB7az",
-            "2": "https://drive.google.com/uc?export=view&id=191h8DXUe4CmJf1FK8MnsE62xaEAKwNeF",
-            "3": "https://drive.google.com/uc?export=view&id=18MeW6fmQ8p7Q206lEs5T5XtmXu6WitPq"
-        },
-        "author_name": "Ball",
-        "description": "This character is very cool. This is a class of shooters-wars. Killed for him: Gemini, Prime. Normal start at the beginning of the game. If you want to upgrade it",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "1103c304-980b-496f-b086-de2cb55cd9a9",
+      "type_id": "1",
+      "name": "Ball",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ball/Ball.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ball/Ball.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ball/Ball-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ball/Ball-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ball/Ball-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ball/Ball-Hardcore.plr"
+      },
+      "author_name": "Ball",
+      "description": "This character is very cool. This is a class of shooters-wars. Killed for him: Gemini, Prime. Normal start at the beginning of the game. If you want to upgrade it",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "c6edd6a1-5bee-4046-be12-80d8eecf024d",
-        "type_id": "1",
-        "name": "Chelick",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1dLLY7KKeuQCdJqYbOAlRdPErTvdc4TpK",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1dLLY7KKeuQCdJqYbOAlRdPErTvdc4TpK"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1MgJkNSa1_0c7iYHiGMARYX6NSJi0-bve",
-            "1": "https://drive.google.com/uc?export=view&id=1L1nG-6P1VD9K0mt1l9k4uNGo0M8ikwMI",
-            "2": "https://drive.google.com/uc?export=view&id=1YDTUxb3G3vv3Wzs6qhw2yh0WWQgvHTQk",
-            "3": "https://drive.google.com/uc?export=view&id=1X94lpAlBX2h9c4Pnv5Tm8VljMT_bLyxW"
-        },
-        "author_name": "ANGEL",
-        "description": "Hello, I uploaded my character so as not to lose it, and at the same time give it to you. It has everything you need. Also in the bag of emptiness there are all the calls of the bosses. I tried to make it so with all the possibilities. Download, good luck.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "c6edd6a1-5bee-4046-be12-80d8eecf024d",
+      "type_id": "1",
+      "name": "Chelick",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Chelick/Chelick.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Chelick/Chelick.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Chelick/Chelick-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Chelick/Chelick-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Chelick/Chelick-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Chelick/Chelick-Hardcore.plr"
+      },
+      "author_name": "ANGEL",
+      "description": "Hello, I uploaded my character so as not to lose it, and at the same time give it to you. It has everything you need. Also in the bag of emptiness there are all the calls of the bosses. I tried to make it so with all the possibilities. Download, good luck.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "d636e6db-a990-4581-9d5d-1afda257b1fb",
-        "type_id": "1",
-        "name": "Strelok(Qwzar)",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1-GJORDbMQqo5sEjmcZUmp5oCe9DpopzC",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1-GJORDbMQqo5sEjmcZUmp5oCe9DpopzC"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1gKS7FB-0Dy8TKEMNPY8Skzt-xWzTbzxr",
-            "1": "https://drive.google.com/uc?export=view&id=1DwUVgnq-SsE6eVbM1tSbIYtGTplgGHYx",
-            "2": "https://drive.google.com/uc?export=view&id=11u6W94-sILX7UndPn_TbzDy4IME4EVXT",
-            "3": "https://drive.google.com/uc?export=view&id=1CaoRpPsHRaW3j_x5etVCtydLstprOabC"
-        },
-        "author_name": "Qwzeek1",
-        "description": "I created many characters for terraria and here is 1 more, this is a shooter without flaws, it seems like he has everything to be the best shooter, this is vortex armor, different weapon bows, combat accessories, potions, etc.\nPS There is a zenith in the bag of emptiness in case of emergency, and if you like the characters that I create, then write about it in the comments and write there what I did not add to the character.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "d636e6db-a990-4581-9d5d-1afda257b1fb",
+      "type_id": "1",
+      "name": "Strelok(Qwzar)",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/StrelokQwzar/StrelokQwzar.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/StrelokQwzar/StrelokQwzar.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/StrelokQwzar/StrelokQwzar-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/StrelokQwzar/StrelokQwzar-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/StrelokQwzar/StrelokQwzar-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/StrelokQwzar/StrelokQwzar-Hardcore.plr"
+      },
+      "author_name": "Qwzeek1",
+      "description": "I created many characters for terraria and here is 1 more, this is a shooter without flaws, it seems like he has everything to be the best shooter, this is vortex armor, different weapon bows, combat accessories, potions, etc.\nPS There is a zenith in the bag of emptiness in case of emergency, and if you like the characters that I create, then write about it in the comments and write there what I did not add to the character.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "ab2b7466-3c46-48df-b772-1ee0d231d472",
-        "type_id": "1",
-        "name": "Massive",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=14AUuht5VpUuTiaujQljB8SIm1CeqCTcN",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=14AUuht5VpUuTiaujQljB8SIm1CeqCTcN"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1jpYsUn0qaOV54nkGCMpTr5GvXOfr_qF0",
-            "1": "https://drive.google.com/uc?export=view&id=1bWChAbpoREipp08t6-6Eq8lxEMZWQhG0",
-            "2": "https://drive.google.com/uc?export=view&id=1a4dF8Jw2YFF7oZChe9XyrNRTZm3JPmm1",
-            "3": "https://drive.google.com/uc?export=view&id=1nKbTWcEj9owrA4tbeYQkIBPbIuICDase"
-        },
-        "author_name": "Lay",
-        "description": "The character that I played for only 16 hours has a shell phone but no zenith, the zenith replacement is the legendary meowmur with 342 melee damage, the character has a small amount of many imb potions, there is a truffle to kill the duke fishron and much more.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "ab2b7466-3c46-48df-b772-1ee0d231d472",
+      "type_id": "1",
+      "name": "Massive",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Massive/Massive.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Massive/Massive.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Massive/Massive-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Massive/Massive-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Massive/Massive-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Massive/Massive-Hardcore.plr"
+      },
+      "author_name": "Lay",
+      "description": "The character that I played for only 16 hours has a shell phone but no zenith, the zenith replacement is the legendary meowmur with 342 melee damage, the character has a small amount of many imb potions, there is a truffle to kill the duke fishron and much more.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "e3cd0a0b-a124-4348-a825-3425c1582034",
-        "type_id": "1",
-        "name": "Prosto Persian 2",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1-GJORDbMQqo5sEjmcZUmp5oCe9DpopzC",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1-GJORDbMQqo5sEjmcZUmp5oCe9DpopzC"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1gKS7FB-0Dy8TKEMNPY8Skzt-xWzTbzxr",
-            "1": "https://drive.google.com/uc?export=view&id=1DwUVgnq-SsE6eVbM1tSbIYtGTplgGHYx",
-            "2": "https://drive.google.com/uc?export=view&id=11u6W94-sILX7UndPn_TbzDy4IME4EVXT",
-            "3": "https://drive.google.com/uc?export=view&id=1CaoRpPsHRaW3j_x5etVCtydLstprOabC"
-        },
-        "author_name": "Qwzeek1",
-        "description": "Do you know that in terraria you can not only run around looking for ores and fight? No? So this character is made just to relax, he has half the types of food from terraria, there are 10 mugs of tea and that's it, he has nothing more, just a character with food, this is an excellent personification of the fact that in terraria you can and should take a break from battles.\nIf you like the characters that I create and you want me to continue doing this, write in the comments what other characters to create and what should be in them.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "e3cd0a0b-a124-4348-a825-3425c1582034",
+      "type_id": "1",
+      "name": "Prosto Persian 2",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Prosto-persian2/Prosto-persian2.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Prosto-persian2/Prosto-persian2.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Prosto-persian2/Prosto-persian2-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Prosto-persian2/Prosto-persian2-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Prosto-persian2/Prosto-persian2-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Prosto-persian2/Prosto-persian2-Hardcore.plr"
+      },
+      "author_name": "Qwzeek1",
+      "description": "Do you know that in terraria you can not only run around looking for ores and fight? No? So this character is made just to relax, he has half the types of food from terraria, there are 10 mugs of tea and that's it, he has nothing more, just a character with food, this is an excellent personification of the fact that in terraria you can and should take a break from battles.\nIf you like the characters that I create and you want me to continue doing this, write in the comments what other characters to create and what should be in them.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "363cc37e-6caf-452f-bca1-456ff051c92b",
-        "type_id": "1",
-        "name": "Snayper100",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1ne42yr3dq3_QEgHfuI7WwzLOSqi4P8Gv",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1ne42yr3dq3_QEgHfuI7WwzLOSqi4P8Gv"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1Ud9FS9IqiWXZTI3rP5yWjSuKpHOsZZPx",
-            "1": "https://drive.google.com/uc?export=view&id=1Kht9FArxVo8XrGg8QBIAAVUSqz0dfOej",
-            "2": "https://drive.google.com/uc?export=view&id=1_PbIHE7nwtoKLgjjg7qYkMHMF4iwVRqX",
-            "3": "https://drive.google.com/uc?export=view&id=1NH2tgLBCAb9KZ_ZLjYCLs-ql-FB3Xgjz"
-        },
-        "author_name": "RIIIKK",
-        "description": "I made a character who has 100% moon lord cannon. When fired, any bullet always inflicts Crit. You can take crystal bullets from inventory and try to kill the dungeon keeper. He also has a sniper rifle, which also has 100% crit.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "363cc37e-6caf-452f-bca1-456ff051c92b",
+      "type_id": "1",
+      "name": "Snayper100",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Snayper100/Snayper100.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Snayper100/Snayper100.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Snayper100/Snayper100%-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Snayper100/Snayper100%-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Snayper100/Snayper100%-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Snayper100/Snayper100%-Hardcore.plr"
+      },
+      "author_name": "RIIIKK",
+      "description": "I made a character who has 100% moon lord cannon. When fired, any bullet always inflicts Crit. You can take crystal bullets from inventory and try to kill the dungeon keeper. He also has a sniper rifle, which also has 100% crit.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "f37bfaae-b4cc-44ac-95a7-ea60ba1736ac",
-        "type_id": "1",
-        "name": "Black People",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1ne42yr3dq3_QEgHfuI7WwzLOSqi4P8Gv",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1ne42yr3dq3_QEgHfuI7WwzLOSqi4P8Gv"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1Ud9FS9IqiWXZTI3rP5yWjSuKpHOsZZPx",
-            "1": "https://drive.google.com/uc?export=view&id=1Kht9FArxVo8XrGg8QBIAAVUSqz0dfOej",
-            "2": "https://drive.google.com/uc?export=view&id=1_PbIHE7nwtoKLgjjg7qYkMHMF4iwVRqX",
-            "3": "https://drive.google.com/uc?export=view&id=1NH2tgLBCAb9KZ_ZLjYCLs-ql-FB3Xgjz"
-        },
-        "author_name": "ChimNor",
-        "description": "Hello everyone what can I say about this player, this player is a warrior as you see below, here, and he is special in that he hits very hard, and you can see below, and he has many other swords in his inventory.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "f37bfaae-b4cc-44ac-95a7-ea60ba1736ac",
+      "type_id": "1",
+      "name": "Black People",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Black_People/Black_People.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Black_People/Black_People.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Black_People/Black_People-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Black_People/Black_People-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Black_People/Black_People-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Black_People/Black_People-Hardcore.plr"
+      },
+      "author_name": "ChimNor",
+      "description": "Hello everyone what can I say about this player, this player is a warrior as you see below, here, and he is special in that he hits very hard, and you can see below, and he has many other swords in his inventory.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "ae02ab0a-ae9b-4654-bf6d-cacdb7478f37",
-        "type_id": "1",
-        "name": "Sonic the hedgehog",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1O1BWgWa882dRPZwRsr1Q-P1O9uEjGMsn",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1O1BWgWa882dRPZwRsr1Q-P1O9uEjGMsn"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1C_LjpFHNbTXniPdUxhg5khjrUSP-D_Rt",
-            "1": "https://drive.google.com/uc?export=view&id=1O6VRJaVp9eQ2eyRb_dPKuiYQyutMocbG",
-            "2": "https://drive.google.com/uc?export=view&id=1ePblAh4tW5e4QakpGcB6wMC9NAsGrWDa",
-            "3": "https://drive.google.com/uc?export=view&id=16yGFpRLOqvMCiNjzmSpDrABUpkRrkNJd"
-        },
-        "author_name": "Sonic fan",
-        "description": "This character has a set of iron items, a piece of cobalt armor, a hook, and accessories, and a laser sword as a bonus. All you need to do is move this file to your characters folder.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "ae02ab0a-ae9b-4654-bf6d-cacdb7478f37",
+      "type_id": "1",
+      "name": "Sonic the hedgehog",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Sonic_the_hedgehog/Sonic_the_hedgehog.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Sonic_the_hedgehog/Sonic_the_hedgehog.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Sonic_the_hedgehog/Sonic_the_hedgehog-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Sonic_the_hedgehog/Sonic_the_hedgehog-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Sonic_the_hedgehog/Sonic_the_hedgehog-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Sonic_the_hedgehog/Sonic_the_hedgehog-Hardcore.plr"
+      },
+      "author_name": "Sonic fan",
+      "description": "This character has a set of iron items, a piece of cobalt armor, a hook, and accessories, and a laser sword as a bonus. All you need to do is move this file to your characters folder.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "db2943c8-1eec-4681-9248-0411e347ed94",
-        "type_id": "1",
-        "name": "Opener",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1lfYatHdvRYbgZ7aUXHqd-eK9sAiBqYnt",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1lfYatHdvRYbgZ7aUXHqd-eK9sAiBqYnt"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1nwTTwTF7tuI1Afx5rGIYRyjssfBlJ2Xe",
-            "1": "https://drive.google.com/uc?export=view&id=1m46pps4ujtsVxOHs-EHBxNGV0Fo8Ha3p",
-            "2": "https://drive.google.com/uc?export=view&id=1P9LwafSYK2RrLSiN3FeMsODEDm8nZU9V",
-            "3": "https://drive.google.com/uc?export=view&id=1Z6VB636PU8ml3GH4-UpwsLprOaGRqk3w"
-        },
-        "author_name": "Qwzeek1",
-        "description": "This is the most uninteresting character that you could meet, his whole essence of existence is to open treasure bags of which he has quite a lot by the way. On the screen below you can see that this character has all the treasure bags, but everything else is empty",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "db2943c8-1eec-4681-9248-0411e347ed94",
+      "type_id": "1",
+      "name": "Opener",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Opener/Opener.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Opener/Opener.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Opener/personaj-Opener-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Opener/personaj-Opener-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Opener/personaj-Opener-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Opener/personaj-Opener-Hardcore.plr"
+      },
+      "author_name": "Qwzeek1",
+      "description": "This is the most uninteresting character that you could meet, his whole essence of existence is to open treasure bags of which he has quite a lot by the way. On the screen below you can see that this character has all the treasure bags, but everything else is empty",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "1109f69a-7c7f-4cf1-8227-3169312b255e",
-        "type_id": "1",
-        "name": "Qwzar21Summoner",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1g4ciJz2LvsL-9gSN2hGxsPGXNs5V0akL",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1g4ciJz2LvsL-9gSN2hGxsPGXNs5V0akL"
-        ],
-        "difficulty": {
-            "0": "",
-            "1": "https://drive.google.com/uc?export=view&id=1PvFBMvjMjNHBz2JnfzT9DGCI6zykV6Sw",
-            "2": "https://drive.google.com/uc?export=view&id=1Qp3vK50pbMjH3yt8dNQc6T82pnWZsrBT",
-            "3": "https://drive.google.com/uc?export=view&id=1aypkViBBslfhJS0fL0kpw-dAYYp1aJE2"
-        },
-        "author_name": "Qwzeek1",
-        "description": "Summoner\nHealth: 500/500\nMana: 200/200\nPlayed: 1-something day\nPoints in golf: 14\nFishermen:8\nSummoner class character\nthere are almost all summoning weapons, there are 3 sets 1) stardust 2) creepy armor 3) spider armor\nGot Money, Mount: Shadowmage's Tome",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "1109f69a-7c7f-4cf1-8227-3169312b255e",
+      "type_id": "1",
+      "name": "Qwzar21Summoner",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Qwzar21Summoner/Qwzar21Summoner.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Qwzar21Summoner/Qwzar21Summoner.jpg"
+      ],
+      "difficulty": {
+        "0": "",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Qwzar21Summoner/Qwzar21Summoner-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Qwzar21Summoner/Qwzar21Summoner-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Qwzar21Summoner/Qwzar21Summoner-Hardcore.plr"
+      },
+      "author_name": "Qwzeek1",
+      "description": "Summoner\nHealth: 500/500\nMana: 200/200\nPlayed: 1-something day\nPoints in golf: 14\nFishermen:8\nSummoner class character\nthere are almost all summoning weapons, there are 3 sets 1) stardust 2) creepy armor 3) spider armor\nGot Money, Mount: Shadowmage's Tome",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "088ada32-f007-4a75-a8b3-dd590535367a",
-        "type_id": "1",
-        "name": "Hermit",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1HgOwpYiaXa8N85RMVipkmrGFDaZBXb92",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1HgOwpYiaXa8N85RMVipkmrGFDaZBXb92"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1vSgoGludNHuzp-cKGPT-T1_iP9X_Yhxx",
-            "1": "https://drive.google.com/uc?export=view&id=1JFrf5EY6L5YappOrnguJvCo6QiwFOS0U",
-            "2": "https://drive.google.com/uc?export=view&id=1VgO1IpoBxNnjy6ywt-7aa4xm8qJmCvze",
-            "3": "https://drive.google.com/uc?export=view&id=1aU5Tb7UyrzFE01yQqVkAfb4EEVW45a-n"
-        },
-        "author_name": "unknown",
-        "description": "Hermit with a red eye, medium strength level is suitable for top survival. Take the character you won't regret it",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "088ada32-f007-4a75-a8b3-dd590535367a",
+      "type_id": "1",
+      "name": "Hermit",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Hermit/Hermit.jpg",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Hermit/Hermit.jpg"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Hermit/Otshelnik-Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Hermit/Otshelnik-Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Hermit/Otshelnik-Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Hermit/Otshelnik-Hardcore.plr"
+      },
+      "author_name": "unknown",
+      "description": "Hermit with a red eye, medium strength level is suitable for top survival. Take the character you won't regret it",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "2dc43a41-3667-4e97-9a9e-96d028bdcec7",
-        "type_id": "1",
-        "name": "Kill bosses",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1s_gs-aJtJA0QYETKfn0rIRwDyjnwxubR",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1s_gs-aJtJA0QYETKfn0rIRwDyjnwxubR",
-            "https://drive.google.com/uc?export=view&id=1aL0VhgwUcMyKb5ecWysGxTeWYagcJzBX"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1DVpL2rZtISlHCMa2c1aygUSBjmSWbN3Y",
-            "1": "https://drive.google.com/uc?export=view&id=1bqLLUSgfuqtI8UOdR8bvh-Csjr2JwM_o",
-            "2": "https://drive.google.com/uc?export=view&id=1DggkvhD2Wto3OiURQ982YWZgefhkyAPg",
-            "3": "https://drive.google.com/uc?export=view&id=14a7Gc-nmXirl50UHOpShjKGb_xUtfczC"
-        },
-        "author_name": "Akiim",
-        "description": "A character suitable for killing bosses! There is a zenith, and armor with great protection. The character has a lot of potions. There is a phone, there is a fishing rod bait 666%.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "2dc43a41-3667-4e97-9a9e-96d028bdcec7",
+      "type_id": "1",
+      "name": "Kill bosses",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Kill_bosses/Kill_bosses_01.png",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Kill_bosses/Kill_bosses_01.png",
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Kill_bosses/Kill_bosses_02.png"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Kill_bosses/Kill_bosses_Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Kill_bosses/Kill_bosses_Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Kill_bosses/Kill_bosses_Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Kill_bosses/Kill_bosses_Hardcore.plr"
+      },
+      "author_name": "Akiim",
+      "description": "A character suitable for killing bosses! There is a zenith, and armor with great protection. The character has a lot of potions. There is a phone, there is a fishing rod bait 666%.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "505239b8-a5b6-4913-8203-c0312c230d12",
-        "type_id": "1",
-        "name": "Fisherman",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=10wyem9ClKWrQlGcyP3MHl8r1InRNZcbT",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=10wyem9ClKWrQlGcyP3MHl8r1InRNZcbT",
-            "https://drive.google.com/uc?export=view&id=1fABwqlKvEfe_jhlZIYnZNfzSvsPrvko5"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1MwDUk3SPnGxgl_OuAK8k1pF-jmD46iIx",
-            "1": "https://drive.google.com/uc?export=view&id=1gn6oQ1O_xBt8Xkysg_VgC6oePLmODS0M",
-            "2": "https://drive.google.com/uc?export=view&id=1EoT2xq9D4Rj94hTc_zVUyYRWYd-R9WGh",
-            "3": "https://drive.google.com/uc?export=view&id=1a5fXmceU_jowUij2C14tq6TRQSUi1uj4"
-        },
-        "author_name": "Daniil Sergeevich",
-        "description": "Fisherman character. There are cool Armor and weapons. Golden rod. Good for completing fisherman's quests.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "8f119d73-e1af-4232-99fa-8b37aea9c62a",
+      "type_id": "1",
+      "name": "Krutak",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Krutak/Krutak_01.png",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Krutak/Krutak_01.png",
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Krutak/Krutak_02.png"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Krutak/Krutak_Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Krutak/Krutak_Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Krutak/Krutak_Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Krutak/Krutak_Hardcore.plr"
+      },
+      "author_name": "Tim",
+      "description": "He's a cheat, okay! ? But he can still die",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "8f119d73-e1af-4232-99fa-8b37aea9c62a",
-        "type_id": "1",
-        "name": "Krutak",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1BO6yrMvH4qMyCdTW6-gs2mRgC6mydB4A",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1BO6yrMvH4qMyCdTW6-gs2mRgC6mydB4A",
-            "https://drive.google.com/uc?export=view&id=1lFsRqIxeh5R09KZe-_HjeEQ9gSAqP_m-"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1HRybdvIfzAVYZrQa7fapyqjMHffxnvhH",
-            "1": "https://drive.google.com/uc?export=view&id=18QvTOVRo02C1R8aCMvOo1CJ6EiwcUHF7",
-            "2": "https://drive.google.com/uc?export=view&id=1tfxsBxGLnjA355y2s2OvpQUtS58OC2O7",
-            "3": "https://drive.google.com/uc?export=view&id=176X8lsB9U1_o5SfEu8RUPp6lHMCvciL9"
-        },
-        "author_name": "Tim",
-        "description": "He's a cheat, okay! ? But he can still die",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "414be8c8-fa7a-45e1-8ff1-1d6f269691d7",
+      "type_id": "1",
+      "name": "Ant",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ant/Ant_01.png",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ant/Ant_01.png",
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ant/Ant_02.png"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ant/Ant_Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ant/Ant_Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ant/Ant_Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ant/Ant_Hardcore.plr"
+      },
+      "author_name": "Muraveychik",
+      "description": "With this character, I went through terraria and played 80 hours. There is Zenith, dawn, terraprism, a lot of wall blocks, traps, cool armor. Character in classic mode, only 1 set is. Lots of expert accessories, such as a floating star, lots of dyes, in short, a very cool character!",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "414be8c8-fa7a-45e1-8ff1-1d6f269691d7",
-        "type_id": "1",
-        "name": "Ant",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1IAzECrlLcMwYmoqpgEckTxZ3LOIQggH4",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1IAzECrlLcMwYmoqpgEckTxZ3LOIQggH4",
-            "https://drive.google.com/uc?export=view&id=1YqmAcS80FgMezJgo9EaKIOeCFnkob3GP"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1P3VSj4tKkDr0G_6E0ioa9KzzACnRsXXB",
-            "1": "https://drive.google.com/uc?export=view&id=1DsFv2qloy8K97yqgj-5NBoay0bNkV6pJ",
-            "2": "https://drive.google.com/uc?export=view&id=1NZ_HOav7qYfE_T1rzwI27_De3Xt20aOP",
-            "3": "https://drive.google.com/uc?export=view&id=1BR0XgCzvHAPJ0Mp5x8aX2JK1rpbKbUiR"
-        },
-        "author_name": "Muraveychik",
-        "description": "With this character, I went through terraria and played 80 hours. There is Zenith, dawn, terraprism, a lot of wall blocks, traps, cool armor. Character in classic mode, only 1 set is. Lots of expert accessories, such as a floating star, lots of dyes, in short, a very cool character!",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "8f6fa07b-6635-4145-ba8f-cecd88399b19",
+      "type_id": "1",
+      "name": "Qwzar21TOP",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Qwzar21TOP/Qwzar21TOP_01.png",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Qwzar21TOP/Qwzar21TOP_01.png",
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Qwzar21TOP/Qwzar21TOP_02.png"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Qwzar21TOP/Qwzar21TOP_Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Qwzar21TOP/Qwzar21TOP_Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Qwzar21TOP/Qwzar21TOP_Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Qwzar21TOP/Qwzar21TOP_Hardcore.plr"
+      },
+      "author_name": "Qwzeek1",
+      "description": "This is just a warrior who can do nothing except battles and mining, this character can easily kill a moon lord, in short, just download and see for yourself, “just a war” has a bunch of potions with mana with a heal and other useful potions.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "8f6fa07b-6635-4145-ba8f-cecd88399b19",
-        "type_id": "1",
-        "name": "Qwzar21TOP",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1yQUlITU-qFeppVOYHbLGs-xWIf5jU0rr",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1yQUlITU-qFeppVOYHbLGs-xWIf5jU0rr",
-            "https://drive.google.com/uc?export=view&id=1TL8Yz_fUDxJVsgl5RLrmziXfmiSJ7aXm"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1AsljDYyE7lGrzcGssxT9DN1_kbrK1JCO",
-            "1": "https://drive.google.com/uc?export=view&id=10dIDGQ6sC5xwzyPA7QNoeIsTBr0kX9oL",
-            "2": "https://drive.google.com/uc?export=view&id=1XjJCEqBDYprhUktesBC0aZL5ttD4Kd_3",
-            "3": "https://drive.google.com/uc?export=view&id=1BAan2d-3eBDh7m-MUpb6vTeYxcKM3O6J"
-        },
-        "author_name": "Qwzeek1",
-        "description": "This is just a warrior who can do nothing except battles and mining, this character can easily kill a moon lord, in short, just download and see for yourself, “just a war” has a bunch of potions with mana with a heal and other useful potions.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "8051b3d2-cc83-4260-9cc8-601566b3ec65",
+      "type_id": "1",
+      "name": "Trunks",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Trunks/Trunks_01.png",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Trunks/Trunks_01.png",
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Trunks/Trunks_02.png"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Trunks/Trunks_Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Trunks/Trunks_Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Trunks/Trunks_Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Trunks/Trunks_Hardcore.plr"
+      },
+      "author_name": "nijicat3",
+      "description": "Another DB character, but melee as it should be. Came from Fused Zamasu fights. Barrels aren't that weak even though he was knocked down in 2 hits while fighting androids.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "8051b3d2-cc83-4260-9cc8-601566b3ec65",
-        "type_id": "1",
-        "name": "Trunks",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1pd-ezWwXWWRACBfYN-KUNP0D8xMWZ2tB",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1pd-ezWwXWWRACBfYN-KUNP0D8xMWZ2tB",
-            "https://drive.google.com/uc?export=view&id=1PON_rIAUbY-fpn0bbYThZZtUyNqxiGc6"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1DzBXEMtS5nkQ6QUseEUWPq-bPcRNn-9a",
-            "1": "https://drive.google.com/uc?export=view&id=1PZO4fpdng7PToh8LofzPIrBk1VVx3KtE",
-            "2": "https://drive.google.com/uc?export=view&id=1jiN9z0bXTAOcH4vKdKyzS8Xrty2E6lLA",
-            "3": "https://drive.google.com/uc?export=view&id=1Eo1tdnID-JdpqaNdc-OLoqBTIBlzaSc7"
-        },
-        "author_name": "nijicat3",
-        "description": "Another DB character, but melee as it should be. Came from Fused Zamasu fights. Barrels aren't that weak even though he was knocked down in 2 hits while fighting androids.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "cef7d1e8-2484-4215-9229-8c306006aaba",
+      "type_id": "1",
+      "name": "HAUS",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/HAUS/HAUS_01.png",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/HAUS/HAUS_01.png",
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/HAUS/HAUS_02.png"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/HAUS/HAUS_Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/HAUS/HAUS_Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/HAUS/HAUS_Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/HAUS/HAUS_Hardcore.plr"
+      },
+      "author_name": "Haus",
+      "description": "A character with almost 3k hours. Adventure almost all things are collected. There is a set of a summoner, a miner, an arrow. I wish those who downloaded a pleasant game, this character is very valuable to me, so I want to share it with him. I went through it and broke quite a few worlds.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "cef7d1e8-2484-4215-9229-8c306006aaba",
-        "type_id": "1",
-        "name": "HAUS",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1fOlbljZ3ySF_th8uBTBkq1H4yfMYj_kR",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1fOlbljZ3ySF_th8uBTBkq1H4yfMYj_kR",
-            "https://drive.google.com/uc?export=view&id=1jxgm5ajntsRkiFs6DGjkcinAM7AYOpiF"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1MnITZn1PBe38e77N1VYVtL7XlZQmQ9JK",
-            "1": "https://drive.google.com/uc?export=view&id=1raTRNhaAYD_I-KbmeLPrp_dqwdnY9aMe",
-            "2": "https://drive.google.com/uc?export=view&id=1jw9r3MkILgPar6IRqAbBqVLCYoCip055",
-            "3": "https://drive.google.com/uc?export=view&id=11GPVadhodffh8NubYnXWZyQ9XbnuxCay"
-        },
-        "author_name": "Haus",
-        "description": "A character with almost 3k hours. Adventure almost all things are collected. There is a set of a summoner, a miner, an arrow. I wish those who downloaded a pleasant game, this character is very valuable to me, so I want to share it with him. I went through it and broke quite a few worlds.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "2563582a-5220-4256-bd97-7e833e51a276",
+      "type_id": "1",
+      "name": "Loner",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Loner/Loner_01.png",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Loner/Loner_02.png"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Loner/Loner_Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Loner/Loner_Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Loner/Loner_Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Loner/Loner_Hardcore.plr"
+      },
+      "author_name": "Creator of the Persians",
+      "description": "A loner from the game stalker (stalker) will continue to make other characters from this game, except for mutants, he has a lot of cartridges and boots (he can fly other normal more or less not found) such a Persian",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "2563582a-5220-4256-bd97-7e833e51a276",
-        "type_id": "1",
-        "name": "Loner",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=14ZP5BYAT6cTK2YpZpeIwqYv8dvtrL6iS",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1t2iP5s86Kh43ZcCPHElt6-qx8UYLvn0Q"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1MsUO4oUHyOSdX1n-fRKywc_1U4jn7dpj",
-            "1": "https://drive.google.com/uc?export=view&id=1AHpAP9FCSxKxTKKEUNEnPy3UTinItd19",
-            "2": "https://drive.google.com/uc?export=view&id=198Sy_wgLukYePGFuUxX_KmGoCTXOkuYV",
-            "3": "https://drive.google.com/uc?export=view&id=174CrtQbbEtuFrx2_oDkdrDKps_s8Cfy1"
-        },
-        "author_name": "Creator of the Persians",
-        "description": "A loner from the game stalker (stalker) will continue to make other characters from this game, except for mutants, he has a lot of cartridges and boots (he can fly other normal more or less not found) such a Persian",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "a47bef86-8d09-4b84-9c26-e741608a463d",
+      "type_id": "1",
+      "name": "Fisherman",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fisherman/Fisherman_01.png",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fisherman/Fisherman_01.png",
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fisherman/Fisherman_02.png"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fisherman/Fisherman_Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fisherman/Fisherman_Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fisherman/Fisherman_Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fisherman/Fisherman_Hardcore.plr"
+      },
+      "author_name": "Danya.P",
+      "description": "Character Grandfather Rybak. Just a fisherman, good for completing fisherman quests.\n\nPersian mode: classic\nThere are useful items for the fisherman.\nFishing rods: golden, infernal.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     },
     {
-        "id": "a47bef86-8d09-4b84-9c26-e741608a463d",
-        "type_id": "1",
-        "name": "Fisherman",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=10wyem9ClKWrQlGcyP3MHl8r1InRNZcbT",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=10wyem9ClKWrQlGcyP3MHl8r1InRNZcbT",
-            "https://drive.google.com/uc?export=view&id=1fABwqlKvEfe_jhlZIYnZNfzSvsPrvko5"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1MwDUk3SPnGxgl_OuAK8k1pF-jmD46iIx",
-            "1": "https://drive.google.com/uc?export=view&id=1gn6oQ1O_xBt8Xkysg_VgC6oePLmODS0M",
-            "2": "https://drive.google.com/uc?export=view&id=1EoT2xq9D4Rj94hTc_zVUyYRWYd-R9WGh",
-            "3": "https://drive.google.com/uc?export=view&id=1a5fXmceU_jowUij2C14tq6TRQSUi1uj4"
-        },
-        "author_name": "Danya.P",
-        "description": "Character Grandfather Rybak. Just a fisherman, good for completing fisherman quests.\n\nPersian mode: classic\nThere are useful items for the fisherman.\nFishing rods: golden, infernal.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
-    },
-    {
-        "id": "6f2e7d45-cd69-43b6-bac3-0ca37cf079ef",
-        "type_id": "1",
-        "name": "Son Goku",
-        "thumbnail_url": "https://drive.google.com/uc?export=view&id=1A44zNhqrypabiVz1uI44ibKgav1Jtljs",
-        "images_url": [
-            "https://drive.google.com/uc?export=view&id=1A44zNhqrypabiVz1uI44ibKgav1Jtljs",
-            "https://drive.google.com/uc?export=view&id=1t0ievgytrWIlCcjvbLYaDhCjK4uaOkRO"
-        ],
-        "difficulty": {
-            "0": "https://drive.google.com/uc?export=view&id=1S6prapxVSv15KbzBZxIf1p3M0ITJQW-i",
-            "1": "https://drive.google.com/uc?export=view&id=1Q9A1BWwEFiEfP0vJXj12DPMWMZrCqlpt",
-            "2": "https://drive.google.com/uc?export=view&id=1tgllBXBeO9jaGtTSJW-yHQM9QWni-zZh",
-            "3": "https://drive.google.com/uc?export=view&id=1wj4hxw7fQ7UUfLEg7kDOEwuSRN366SWt"
-        },
-        "author_name": "nijicat3",
-        "description": "Dragon Ball mc with his KI attacks etc. Someday I will also make Broly, Vegeta and other characters. By the way, this is my first character, so don't judge this creature.",
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2023-08-08 19:40:49.099"
+      "id": "6f2e7d45-cd69-43b6-bac3-0ca37cf079ef",
+      "type_id": "1",
+      "name": "Son Goku",
+      "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Son_Goku/Son_Goku_01.png",
+      "images_url": [
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Son_Goku/Son_Goku_01.png",
+        "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Son_Goku/Son_Goku_02.png"
+      ],
+      "difficulty": {
+        "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Son_Goku/Son_Goku_Journey.plr",
+        "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Son_Goku/Son_Goku_Classic.plr",
+        "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Son_Goku/Son_Goku_Medium.plr",
+        "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Son_Goku/Son_Goku_Hardcore.plr"
+      },
+      "author_name": "nijicat3",
+      "description": "Dragon Ball mc with his KI attacks etc. Someday I will also make Broly, Vegeta and other characters. By the way, this is my first character, so don't judge this creature.",
+      "hot_priority": "1",
+      "download_count": "0",
+      "createTime": "2023-08-08 19:40:49.099"
     }
-]
+  ]
