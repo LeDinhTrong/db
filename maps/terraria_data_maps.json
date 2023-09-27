@@ -3,15 +3,15 @@
     "id": "4929ec8f-ccc2-4c50-b708-7f9ecf17b038",
     "type_id": "0",
     "name": "Trial Lighting",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Trial_Lighting/Trial_Lighting.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Survival/Trial_Lighting/Trial_Lighting.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Trial_Lighting/Trial_Lighting.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Survival/Trial_Lighting/Trial_Lighting.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Trial_Lighting/Trial_Lighting_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Trial_Lighting/Trial_Lighting_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Trial_Lighting/Trial_Lighting_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Trial_Lighting/Trial_Lighting_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Survival/Trial_Lighting/Trial_Lighting_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Survival/Trial_Lighting/Trial_Lighting_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Survival/Trial_Lighting/Trial_Lighting_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Survival/Trial_Lighting/Trial_Lighting_Master.wld"
     },
     "author_name": "akiim",
     "description": "The test to survive in the biome of consecration in the world is a hidden chest (hive hint, honey chest) there will be an earth blade keys wand of harmony and more summons",
@@ -27,15 +27,15 @@
     "id": "2d12b529-0328-4a58-b6ac-4e6beec9f467",
     "type_id": "0",
     "name": "Starting House #2",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Starting_House_2/Starting_House_2.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Starting_House_2/Starting_House_2.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Starting_House_2/Starting_House_2.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Starting_House_2/Starting_House_2.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Starting_House_2/Starting_House_2_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Starting_House_2/Starting_House_2_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Starting_House_2/Starting_House_2_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Starting_House_2/Starting_House_2_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Starting_House_2/Starting_House_2_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Starting_House_2/Starting_House_2_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Starting_House_2/Starting_House_2_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Starting_House_2/Starting_House_2_Master.wld"
     },
     "author_name": "unknown",
     "description": "Quite a large starting house, useful to someone who is too lazy to build. The house itself is built, there is some furniture, and the rest is up to you. The house is built of wood, I think it is suitable for a starting building.",
@@ -51,15 +51,15 @@
     "id": "d7fd33d6-3b7b-41a9-9835-901b722ddbb3",
     "type_id": "0",
     "name": "Fox House",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Fox_House/Fox_House_Thumbnail.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Fox_House/Fox_House_Thumbnail.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Fox_House/Fox_House.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Fox_House/Fox_House.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Fox_House/Fox_House_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Fox_House/Fox_House_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Fox_House/Fox_House_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Fox_House/Fox_House_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Fox_House/Fox_House_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Fox_House/Fox_House_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Fox_House/Fox_House_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Fox_House/Fox_House_Master.wld"
     },
     "author_name": "WATER",
     "description": "This map is great to start off with some resources in chests. And this is my first map and I don't know how to put it out of travel mode so sorry have a good game.",
@@ -75,16 +75,16 @@
     "id": "ec99aea1-282d-4978-aa41-323441e4c8ad",
     "type_id": "0",
     "name": "Faerie Box Map Entanglement",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Faerie_Box_Map_Entanglement/Faerie_Box_Map_Entanglement_Master.wld"
     },
     "author_name": "Andrey",
     "description": "I've played this map a lot, well, that's by my standards. There are two farms on the map: essences of light and darkness and quite a lot of resources. By the way, the map is almost completed, except for the fishbron and the empress of light. So have a nice game.",
@@ -100,16 +100,16 @@
     "id": "0ac036a3-fa47-4ea0-ae5d-4336766527eb",
     "type_id": "0",
     "name": "Awesome map ",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Awesome_map/Awesome_map_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Awesome_map/Awesome_map_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Awesome_map/Awesome_map_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Awesome_map/Awesome_map_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Awesome_map/Awesome_map_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Awesome_map/Awesome_map_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Awesome_map/Awesome_map_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Awesome_map/Awesome_map_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Awesome_map/Awesome_map_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Awesome_map/Awesome_map_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Awesome_map/Awesome_map_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Awesome_map/Awesome_map_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Awesome_map/Awesome_map_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Awesome_map/Awesome_map_Master.wld"
     },
     "author_name": "Valentin",
     "description": "A map with a large basement and a house, killed almost all the bosses of the bestiary is open at 26 percent",
@@ -125,16 +125,16 @@
     "id": "8f80ea08-b7ca-4f57-8be6-d61cccd78930",
     "type_id": "0",
     "name": "Parkour and flappy Bird",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Parkour/Parkour_and_flappy_Bird/Parkour_and_flappy_Bird_Master.wld"
     },
     "author_name": "Ximihila_roma",
     "description": "A map like parkour and flappy birds",
@@ -150,16 +150,16 @@
     "id": "8c8265be-8232-4566-8681-ff03c3d94a8c",
     "type_id": "0",
     "name": "Sky block map",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Sky_block_map/Sky_block_map_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Survival/Sky_block_map/Sky_block_map_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Sky_block_map/Sky_block_map_02.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Sky_block_map/Sky_block_map_03.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Survival/Sky_block_map/Sky_block_map_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Survival/Sky_block_map/Sky_block_map_03.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Sky_block_map/Sky_block_map_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Sky_block_map/Sky_block_map_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Sky_block_map/Sky_block_map_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Sky_block_map/Sky_block_map_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Survival/Sky_block_map/Sky_block_map_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Survival/Sky_block_map/Sky_block_map_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Survival/Sky_block_map/Sky_block_map_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Survival/Sky_block_map/Sky_block_map_Master.wld"
     },
     "author_name": "TerraZel",
     "description": "-New mini-islands\n-Island with new rigidity\n-New loot\n-New secret\n-Big tree\nThere are new islands in the sky",
@@ -175,15 +175,15 @@
     "id": "941699ae-0f86-4a2b-ac2e-53f9ed2b9150",
     "type_id": "0",
     "name": "Random world",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Random_world/Random_world_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Random_world/Random_world_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Random_world/Random_world_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Random_world/Random_world_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Random_world/Random_world_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Random_world/Random_world_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Random_world/Random_world_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Random_world/Random_world_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Random_world/Random_world_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Random_world/Random_world_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Random_world/Random_world_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Random_world/Random_world_Master.wld"
     },
     "author_name": "Lekhanchik25",
     "description": "In this world, all blocks are converted to others. Also here immediately installed hardmode. I hope you will enjoy",
@@ -199,15 +199,15 @@
     "id": "388d900e-c77b-4870-80a6-f6a82c3c4613",
     "type_id": "0",
     "name": "Top things",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Top_things/Top_things_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Top_things/Top_things_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Top_things/Top_things_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Top_things/Top_things_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Top_things/Top_things_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Top_things/Top_things_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Top_things/Top_things_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Top_things/Top_things_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Top_things/Top_things_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Top_things/Top_things_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Top_things/Top_things_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Top_things/Top_things_Master.wld"
     },
     "author_name": "Chim",
     "description": "Briefly about this world: This is a world with a seed - celebrationmk10, there are things - Arrow, Warrior, Mage, and Summoner",
@@ -223,15 +223,15 @@
     "id": "d498cd16-2f20-4ed2-926e-49a936ce7d7e",
     "type_id": "0",
     "name": "Puzzle",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Puzzle/Puzzle_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Puzzle/Puzzle_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Puzzle/Puzzle_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Puzzle/Puzzle_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Puzzle/Puzzle_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Puzzle/Puzzle_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Puzzle/Puzzle_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Puzzle/Puzzle_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Puzzle/Puzzle_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Puzzle/Puzzle_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Puzzle/Puzzle_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Puzzle/Puzzle_Master.wld"
     },
     "author_name": "Artem kutsenko",
     "description": "Just Puzzle. Difficult puzzles. Puzzles with switches. Puzzle bricks lizards. Puzzles for vigilance. Built on Travel.",
@@ -247,15 +247,15 @@
     "id": "8907e132-1e4d-4dcf-8667-3a224cf599a4",
     "type_id": "0",
     "name": "Empire",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Empire/Empire_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Empire/Empire_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Empire/Empire_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Empire/Empire_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Empire/Empire_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Empire/Empire_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Empire/Empire_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Empire/Empire_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Empire/Empire_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Empire/Empire_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Empire/Empire_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Empire/Empire_Master.wld"
     },
     "author_name": "Sergey Dobin",
     "description": "This map has a gray brick castle, a ship at sea on the left side of the map, and a small castle in the consecration biome on the right side of the map. This map has all nps and almost all pet slugs. There is also an ash biome with a puddle of simmer. Lots of cool items necklace lilith, zenith and more.",
@@ -271,15 +271,15 @@
     "id": "c97366d6-2730-4b7b-9073-cd908130d350",
     "type_id": "0",
     "name": "Dryad Says Great Deliverance Terraria Card",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Deliverance/Deliverance.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Deliverance/Deliverance.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Deliverance/Deliverance.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Deliverance/Deliverance.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Deliverance/Deliverance_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Deliverance/Deliverance_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Deliverance/Deliverance_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Deliverance/Deliverance_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Deliverance/Deliverance_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Deliverance/Deliverance_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Deliverance/Deliverance_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Deliverance/Deliverance_Master.wld"
     },
     "author_name": "Mr.Sprute",
     "description": "WARNING READ FULL! this map is made for lazy people like me, yes, I know clearing the map is very difficult and now the map is completely empty, to get the achievement you need to unearth the dryad and talk about the status and now the score arrives and you get high on life!",
@@ -295,15 +295,15 @@
     "id": "224df758-ed60-4716-aff5-39085ba03b5d",
     "type_id": "0",
     "name": "Mob Farm Map",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Mob_Farm_Map/Mob_Farm_Map.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Mob_Farm_Map/Mob_Farm_Map.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Mob_Farm_Map/Mob_Farm_Map.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Mob_Farm_Map/Mob_Farm_Map.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Mob_Farm_Map/Mob_Farm_Map_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Mob_Farm_Map/Mob_Farm_Map_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Mob_Farm_Map/Mob_Farm_Map_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Mob_Farm_Map/Mob_Farm_Map_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Mob_Farm_Map/Mob_Farm_Map_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Mob_Farm_Map/Mob_Farm_Map_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Mob_Farm_Map/Mob_Farm_Map_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Mob_Farm_Map/Mob_Farm_Map_Master.wld"
     },
     "author_name": "Tim",
     "description": "Works sometimes no I don't know why\n3 mobs are better, 9 are even better!\nBut it might kill you\nIf you are small\nOkay, here is a bloody zombie skeleton and a slug, you can turn off the farm if you remove the timer",
@@ -319,15 +319,15 @@
     "id": "f5688bfb-1490-47a1-97c9-bdc51d8fa1b6",
     "type_id": "0",
     "name": "Map with houses",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_with_houses/Map_with_houses_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_with_houses/Map_with_houses_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_with_houses/Map_with_houses_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_with_houses/Map_with_houses_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_with_houses/Map_with_houses_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_with_houses/Map_with_houses_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_with_houses/Map_with_houses_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_with_houses/Map_with_houses_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_with_houses/Map_with_houses_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_with_houses/Map_with_houses_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_with_houses/Map_with_houses_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_with_houses/Map_with_houses_Master.wld"
     },
     "author_name": "Ximihila_roma",
     "description": "The world map is small and there are no nps there. This is my first map that I posted, rate it, I tried and I will either update it or I will do more.",
@@ -343,15 +343,15 @@
     "id": "34f89f0e-2ef6-44da-94aa-da99a8144b70",
     "type_id": "0",
     "name": "Terraria princess card",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Terraria_princess_card/Terraria_princess_card_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terraria_princess_card/Terraria_princess_card_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Terraria_princess_card/Terraria_princess_card_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terraria_princess_card/Terraria_princess_card_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Terraria_princess_card/Terraria_princess_card_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Terraria_princess_card/Terraria_princess_card_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Terraria_princess_card/Terraria_princess_card_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Terraria_princess_card/Terraria_princess_card_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terraria_princess_card/Terraria_princess_card_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terraria_princess_card/Terraria_princess_card_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terraria_princess_card/Terraria_princess_card_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terraria_princess_card/Terraria_princess_card_Master.wld"
     },
     "author_name": "Akiim",
     "description": "The map where there is a princess, there are 32 nps in the map, 83% of the bestiary on the map. The moon lord was defeated, many bosses were defeated, I made the map myself, there are pylons and a lot of chests, an expert map, a lot of banners, I hope you will be interested.",
@@ -367,15 +367,15 @@
     "id": "35a21913-efa5-4429-a237-b05158578177",
     "type_id": "0",
     "name": "Map Fresh slobber",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Fresh_slobber/Map_Fresh_slobber_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Fresh_slobber/Map_Fresh_slobber_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Fresh_slobber/Map_Fresh_slobber_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Fresh_slobber/Map_Fresh_slobber_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Fresh_slobber/Map_Fresh_slobber_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Fresh_slobber/Map_Fresh_slobber_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Fresh_slobber/Map_Fresh_slobber_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Fresh_slobber/Map_Fresh_slobber_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Fresh_slobber/Map_Fresh_slobber_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Fresh_slobber/Map_Fresh_slobber_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Fresh_slobber/Map_Fresh_slobber_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Fresh_slobber/Map_Fresh_slobber_Master.wld"
     },
     "author_name": "TuzerT",
     "description": "Played for 60 hours I think other players will like to play on this world I left my set in a chest near the left tower a small world if that",
@@ -391,16 +391,16 @@
     "id": "8429a156-0ced-41a9-8c26-d26d801028ab",
     "type_id": "0",
     "name": "Basic map",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Basic_map/Basic_map_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Basic_map/Basic_map_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Basic_map/Basic_map_02.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Basic_map/Basic_map_03.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Basic_map/Basic_map_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Basic_map/Basic_map_03.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Basic_map/Basic_map_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Basic_map/Basic_map_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Basic_map/Basic_map_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Basic_map/Basic_map_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Basic_map/Basic_map_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Basic_map/Basic_map_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Basic_map/Basic_map_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Basic_map/Basic_map_Master.wld"
     },
     "author_name": "Zerillr",
     "description": "This map is simply beautiful, it has all the crafting tables (there is no only the summoner table). But the most pleasant thing for someone will be that I limited the spread of crimson. Of the bosses, only the wall of flesh has been completed. I hope my map is useful to someone, I hope for feedback. Good luck!",
@@ -416,16 +416,16 @@
     "id": "0fad80eb-ea26-4e48-bb30-4c6984612647",
     "type_id": "0",
     "name": "Hell Map",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Hell_Map/Hell_Map_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Hell_Map/Hell_Map_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Hell_Map/Hell_Map_02.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Hell_Map/Hell_Map_03.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Hell_Map/Hell_Map_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Hell_Map/Hell_Map_03.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Hell_Map/Hell_Map_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Hell_Map/Hell_Map_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Hell_Map/Hell_Map_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Hell_Map/Hell_Map_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Hell_Map/Hell_Map_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Hell_Map/Hell_Map_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Hell_Map/Hell_Map_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Hell_Map/Hell_Map_Master.wld"
     },
     "author_name": "umnich325",
     "description": "A map with quite large and beautiful buildings, many different afk farms, and ordinary farms teleported to them. There are all pylons except the general one. Carried out railways around the world underground. Biome compartments for easy cleaning and infestation control.",
@@ -441,15 +441,15 @@
     "id": "693873b2-5089-42dc-b0e0-90551bb84ee1",
     "type_id": "0",
     "name": "Necromancer Square map",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Necromancer_Square_map/Necromancer_Square_map.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Necromancer_Square_map/Necromancer_Square_map.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Necromancer_Square_map/Necromancer_Square_map.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Necromancer_Square_map/Necromancer_Square_map.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Necromancer_Square_map/Necromancer_Square_map_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Necromancer_Square_map/Necromancer_Square_map_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Necromancer_Square_map/Necromancer_Square_map_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Necromancer_Square_map/Necromancer_Square_map_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Necromancer_Square_map/Necromancer_Square_map_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Necromancer_Square_map/Necromancer_Square_map_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Necromancer_Square_map/Necromancer_Square_map_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Necromancer_Square_map/Necromancer_Square_map_Master.wld"
     },
     "author_name": "Alexander Rakitin",
     "description": "This map is not with all things and non-playable characters, there are chests, they contain armor and accessories, (that is, accessories), and weapons and guns. this is a card for beginners or experts who find it difficult to play (those words are for beginners).",
@@ -465,16 +465,16 @@
     "id": "e52cd0f4-e8fb-4610-a886-f4dee09f4c48",
     "type_id": "0",
     "name": "Map Farm",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Farm/Map_Farm_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Farm/Map_Farm_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Farm/Map_Farm_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Farm/Map_Farm_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Farm/Map_Farm_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Farm/Map_Farm_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Farm/Map_Farm_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Farm/Map_Farm_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Farm/Map_Farm_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Farm/Map_Farm_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Farm/Map_Farm_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Farm/Map_Farm_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Farm/Map_Farm_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Farm/Map_Farm_Master.wld"
     },
     "author_name": "bylosorno127",
     "description": "I built a small farm in the future I will build new ones and improve the old one, will be there (most likely) to farm the jungle, winter biome, crimzone, distortion, desert, desert lighting, distortion or crimzone.",
@@ -490,16 +490,16 @@
     "id": "f16cfb18-1634-412b-9755-358b86dcd217",
     "type_id": "0",
     "name": "Vanguard Totem Map",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Vanguard_Totem_Map/Vanguard_Totem_Map_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Vanguard_Totem_Map/Vanguard_Totem_Map_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Vanguard_Totem_Map/Vanguard_Totem_Map_02.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Vanguard_Totem_Map/Vanguard_Totem_Map_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Vanguard_Totem_Map/Vanguard_Totem_Map_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Vanguard_Totem_Map/Vanguard_Totem_Map_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Vanguard_Totem_Map/Vanguard_Totem_Map_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Vanguard_Totem_Map/Vanguard_Totem_Map_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Vanguard_Totem_Map/Vanguard_Totem_Map_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Vanguard_Totem_Map/Vanguard_Totem_Map_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Vanguard_Totem_Map/Vanguard_Totem_Map_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Vanguard_Totem_Map/Vanguard_Totem_Map_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Vanguard_Totem_Map/Vanguard_Totem_Map_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Vanguard_Totem_Map/Vanguard_Totem_Map_Master.wld"
     },
     "author_name": "especialista_77",
     "description": "Map with a huge tower for Terraria. If you like large multi-story buildings, then this map will definitely suit you. It can be used as a starting base!",
@@ -515,16 +515,16 @@
     "id": "e16c15f8-834f-420b-a356-0edf23aa7a8d",
     "type_id": "0",
     "name": "Map of the traitorous crown",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_of_the_traitorous_crown/Map_of_the_traitorous_crown_Master.wld"
     },
     "author_name": "Murad",
     "description": "The map, with all the NPCs, including the city slugs from version 1.4.4, in short, please don’t judge my map strictly, I still tried, in order to lay out this map I had to take 15 hours of my time, but a little ) but it's worth it",
@@ -540,16 +540,16 @@
     "id": "e6a3519c-d496-44de-8f22-65e8728f1895",
     "type_id": "0",
     "name": "Card to fur. bosses",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Card_to_fur_bosses/Card_to_fur_bosses_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Card_to_fur_bosses/Card_to_fur_bosses_01.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Card_to_fur_bosses/Card_to_fur_bosses_02.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Card_to_fur_bosses/Card_to_fur_bosses_03.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Card_to_fur_bosses/Card_to_fur_bosses_02.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Card_to_fur_bosses/Card_to_fur_bosses_03.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Card_to_fur_bosses/Card_to_fur_bosses_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Card_to_fur_bosses/Card_to_fur_bosses_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Card_to_fur_bosses/Card_to_fur_bosses_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Card_to_fur_bosses/Card_to_fur_bosses_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Card_to_fur_bosses/Card_to_fur_bosses_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Card_to_fur_bosses/Card_to_fur_bosses_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Card_to_fur_bosses/Card_to_fur_bosses_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Card_to_fur_bosses/Card_to_fur_bosses_Master.wld"
     },
     "author_name": "LIMINKOR",
     "description": "The map before mechanical bosses played survival classic, there are chests with items used dupe with chests to dupe ingots and materials on version 1.4",
@@ -565,16 +565,16 @@
     "id": "0f26a3e8-3102-4e0d-b86a-53e63aa4073a",
     "type_id": "0",
     "name": "Comics map",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comics_map/Comics_map_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comics_map/Comics_map_01.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comics_map/Comics_map_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comics_map/Comics_map_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comics_map/Comics_map_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comics_map/Comics_map_02.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comics_map/Comics_map_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comics_map/Comics_map_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comics_map/Comics_map_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comics_map/Comics_map_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comics_map/Comics_map_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comics_map/Comics_map_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comics_map/Comics_map_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comics_map/Comics_map_Master.wld"
     },
     "author_name": "Kostya",
     "description": "This world has: mini games, comics, beautiful buildings, etc.\nUpdate: at home\nPersians\nNPC\nComics\nDevices\nAnd added tests.\nBosses will be killed but for now I'm building and wondering how the Red Moon can appear so often",
@@ -590,16 +590,16 @@
     "id": "e8c6ecc2-cd16-48bc-b7ab-a4571be3a992",
     "type_id": "0",
     "name": "Beautiful Houses",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Beautiful_Houses/Beautiful_Houses_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Beautiful_Houses/Beautiful_Houses_01.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Beautiful_Houses/Beautiful_Houses_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Beautiful_Houses/Beautiful_Houses_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Beautiful_Houses/Beautiful_Houses_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Beautiful_Houses/Beautiful_Houses_02.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Beautiful_Houses/Beautiful_Houses_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Beautiful_Houses/Beautiful_Houses_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Beautiful_Houses/Beautiful_Houses_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Beautiful_Houses/Beautiful_Houses_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Beautiful_Houses/Beautiful_Houses_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Beautiful_Houses/Beautiful_Houses_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Beautiful_Houses/Beautiful_Houses_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Beautiful_Houses/Beautiful_Houses_Master.wld"
     },
     "author_name": "Valentin Saygak",
     "description": "Map with beautiful houses in each biome. Every house has pylons. There are several nips. The map is intended for those who are too lazy to build. I wish you a pleasant, successful and winning game.",
@@ -615,16 +615,16 @@
     "id": "57513ea1-6719-479f-9e11-ceae75a8dcb8",
     "type_id": "0",
     "name": "Map with a defeated lunard and flights",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_01.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_02.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_with_a_defeated_lunard_and_flights/Map_with_a_defeated_lunard_and_flights_Master.wld"
     },
     "author_name": "Kross_193",
     "description": "On the map, lunard was defeated, the map itself was redone, I added some things and all the buildings were taken from another map.",
@@ -640,15 +640,15 @@
     "id": "2d560791-9792-4490-9f02-ed832021870f",
     "type_id": "0",
     "name": "Map Guy lilies",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Guy_lilies/Map_Guy_lilies_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Guy_lilies/Map_Guy_lilies_01.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Guy_lilies/Map_Guy_lilies_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Guy_lilies/Map_Guy_lilies_02.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Guy_lilies/Map_Guy_lilies_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Guy_lilies/Map_Guy_lilies_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Guy_lilies/Map_Guy_lilies_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Guy_lilies/Map_Guy_lilies_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Guy_lilies/Map_Guy_lilies_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Guy_lilies/Map_Guy_lilies_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Guy_lilies/Map_Guy_lilies_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Guy_lilies/Map_Guy_lilies_Master.wld"
     },
     "author_name": "gimvit",
     "description": "This map is cool, there is a zenith, a super Kirk and so far cubits bosses skeleton prime, the eye of Cthulhu, twins, the Destroyer, the king of slugs, the queen of slugs, the queen of bees, and the devourer of worlds, the wall of flesh, skeleton.?",
@@ -664,15 +664,15 @@
     "id": "f6d11488-3337-472d-b620-620c10e78ff5",
     "type_id": "0",
     "name": "Map Excellent hostel",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Excellent_hostel/Map_Excellent_hostel_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Excellent_hostel/Map_Excellent_hostel_01.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Excellent_hostel/Map_Excellent_hostel_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Excellent_hostel/Map_Excellent_hostel_02.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Excellent_hostel/Map_Excellent_hostel_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Excellent_hostel/Map_Excellent_hostel_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Excellent_hostel/Map_Excellent_hostel_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Excellent_hostel/Map_Excellent_hostel_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Excellent_hostel/Map_Excellent_hostel_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Excellent_hostel/Map_Excellent_hostel_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Excellent_hostel/Map_Excellent_hostel_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Excellent_hostel/Map_Excellent_hostel_Master.wld"
     },
     "author_name": "Murad",
     "description": "This is a great dorm map with many nips, another gift in chests, why am I writing this? And in order to lay out this card, have fun) And by the way, in one chest are the legs of the moon lord",
@@ -688,15 +688,15 @@
     "id": "d6c74087-4c08-4966-9dd7-caff3507a198",
     "type_id": "0",
     "name": "Top items map",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Top_items_map/Top_items_map_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Top_items_map/Top_items_map_01.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Top_items_map/Top_items_map_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Top_items_map/Top_items_map_02.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Top_items_map/Top_items_map_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Top_items_map/Top_items_map_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Top_items_map/Top_items_map_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Top_items_map/Top_items_map_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Top_items_map/Top_items_map_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Top_items_map/Top_items_map_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Top_items_map/Top_items_map_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Top_items_map/Top_items_map_Master.wld"
     },
     "author_name": "Dima",
     "description": "This is a map with top items for all classes, there is a weapon, armor, wings, a golden fishing rod and a net, there are also 999 defender medals, there is also a wand of discord good luck on the map",
@@ -712,15 +712,15 @@
     "id": "d412ecc4-3044-4d05-85ea-9aa15f44f0d0",
     "type_id": "0",
     "name": "Map Scary Animal Mouth",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Scary_Animal_Mouth/Map_Scary_Animal_Mouth.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Scary_Animal_Mouth/Map_Scary_Animal_Mouth.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Scary_Animal_Mouth/Map_Scary_Animal_Mouth.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Scary_Animal_Mouth/Map_Scary_Animal_Mouth.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Scary_Animal_Mouth/Map_Scary_Animal_Mouth_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Scary_Animal_Mouth/Map_Scary_Animal_Mouth_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Scary_Animal_Mouth/Map_Scary_Animal_Mouth_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Scary_Animal_Mouth/Map_Scary_Animal_Mouth_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Scary_Animal_Mouth/Map_Scary_Animal_Mouth_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Scary_Animal_Mouth/Map_Scary_Animal_Mouth_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Scary_Animal_Mouth/Map_Scary_Animal_Mouth_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Scary_Animal_Mouth/Map_Scary_Animal_Mouth_Master.wld"
     },
     "author_name": "RECORDIX",
     "description": "Just a map in order to build a continuation, take any weapons and survive!\nThis map has ZENITH, LEGENDARY FURY AND MANY OTHER SWORDS.",
@@ -736,16 +736,16 @@
     "id": "3be3954b-0851-45de-9e21-6d3ce5d39aa1",
     "type_id": "0",
     "name": "Map 100% bestiary",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_100_bestiary/Map_100_bestiary_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_100_bestiary/Map_100_bestiary_01.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_100_bestiary/Map_100_bestiary_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_100_bestiary/Map_100_bestiary_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_100_bestiary/Map_100_bestiary_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_100_bestiary/Map_100_bestiary_02.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_100_bestiary/Map_100_bestiary_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_100_bestiary/Map_100_bestiary_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_100_bestiary/Map_100_bestiary_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_100_bestiary/Map_100_bestiary_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_100_bestiary/Map_100_bestiary_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_100_bestiary/Map_100_bestiary_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_100_bestiary/Map_100_bestiary_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_100_bestiary/Map_100_bestiary_Master.wld"
     },
     "author_name": "W1ngle",
     "description": "By downloading this map, you will receive a 100% bistiary, a starting house in the form of a tower and a multi-storey building with NPCs. Plus something else interesting.",
@@ -761,15 +761,15 @@
     "id": "cae8ca2b-bae0-45d5-b320-0083d47955bb",
     "type_id": "0",
     "name": "Map Lower Mausoleum",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Lower_Mausoleum/Map_Lower_Mausoleum_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Lower_Mausoleum/Map_Lower_Mausoleum_01.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Lower_Mausoleum/Map_Lower_Mausoleum_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Lower_Mausoleum/Map_Lower_Mausoleum_02.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Lower_Mausoleum/Map_Lower_Mausoleum_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Lower_Mausoleum/Map_Lower_Mausoleum_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Lower_Mausoleum/Map_Lower_Mausoleum_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Lower_Mausoleum/Map_Lower_Mausoleum_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Lower_Mausoleum/Map_Lower_Mausoleum_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Lower_Mausoleum/Map_Lower_Mausoleum_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Lower_Mausoleum/Map_Lower_Mausoleum_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Lower_Mausoleum/Map_Lower_Mausoleum_Master.wld"
     },
     "author_name": "Sasha",
     "description": "Enjoy. You can carry res.",
@@ -785,16 +785,16 @@
     "id": "1a8f3c2a-eff4-4600-af46-db42f5485384",
     "type_id": "0",
     "name": "Comic World map",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comic_World_map/Comic_World_map_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comic_World_map/Comic_World_map_01.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comic_World_map/Comic_World_map_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comic_World_map/Comic_World_map_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comic_World_map/Comic_World_map_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comic_World_map/Comic_World_map_02.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comic_World_map/Comic_World_map_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comic_World_map/Comic_World_map_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comic_World_map/Comic_World_map_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Comic_World_map/Comic_World_map_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comic_World_map/Comic_World_map_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comic_World_map/Comic_World_map_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comic_World_map/Comic_World_map_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Comic_World_map/Comic_World_map_Master.wld"
     },
     "author_name": "Just Louis",
     "description": "The world of comics is just a world with secrets and soon with a plot, and it's cool. It is advised: read the signs and if you are too lazy, get out of the world. I will be very happy if this world advances, do not pay attention to spawn, these are resources for construction, go to the sides.",
@@ -810,16 +810,16 @@
     "id": "eb24e3ed-ace4-45e6-8310-ffe203d5786b",
     "type_id": "0",
     "name": "Map Starting house",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Starting_house/Map_Starting_house_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Starting_house/Map_Starting_house_01.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Starting_house/Map_Starting_house_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Starting_house/Map_Starting_house_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Starting_house/Map_Starting_house_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Starting_house/Map_Starting_house_02.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Starting_house/Map_Starting_house_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Starting_house/Map_Starting_house_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Starting_house/Map_Starting_house_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Starting_house/Map_Starting_house_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Starting_house/Map_Starting_house_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Starting_house/Map_Starting_house_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Starting_house/Map_Starting_house_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Starting_house/Map_Starting_house_Master.wld"
     },
     "author_name": "Dima",
     "description": "This is an initial survival house for one or four people in the house there is a blood working area a chest with initial weapons for all classes and four more boxes on the map I didn’t kill a single boss nothing I didn’t touch anything luck on the map",
@@ -835,16 +835,16 @@
     "id": "a3706541-341a-4f65-8cfc-0c7ec4463323",
     "type_id": "0",
     "name": "Map Battle of the Miners",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Home/Map_Battle_of_the_Miners/Map_Battle_of_the_Miners_Master.wld"
     },
     "author_name": "Strikend",
     "description": "This map is for 1v1.\nSee for yourself and master yourself with a friend.",
@@ -860,16 +860,16 @@
     "id": "785f4332-7ec1-4df0-8a5e-0aa170bd86dc",
     "type_id": "0",
     "name": "Map Optimistic slope of the law",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Optimistic_slope_of_the_law/Map_Optimistic_slope_of_the_law_Master.wld"
     },
     "author_name": "Murafld",
     "description": "In short, this is an ordinary card with the most important thing, the world is good but ... Not completed, just play and have fun, and such a world is generally suitable for beginners",
@@ -885,16 +885,16 @@
     "id": "cd32ccbf-bb77-4181-9d3e-f14edc464896",
     "type_id": "0",
     "name": "Map TerraTale Ru v2",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_TerraTale_Ru_v2/Map_TerraTale_Ru_v2_Master.wld"
     },
     "author_name": "TerraZel",
     "description": "It's like an undertale, it's not mine, but the map was in English (not everyone knows English) I completely translated the map of the plate, etc. When you pass you will see the translation. BUT if you see a sign that I have not translated write. but I think I translated everything even the secrets.",
@@ -910,16 +910,16 @@
     "id": "f24de518-538f-4d4a-938f-58f8d3d31f35",
     "type_id": "0",
     "name": "Map Passed world",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Passed_world/Map_Passed_world_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Passed_world/Map_Passed_world_01.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Passed_world/Map_Passed_world_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Passed_world/Map_Passed_world_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Passed_world/Map_Passed_world_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Passed_world/Map_Passed_world_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Passed_world/Map_Passed_world_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Passed_world/Map_Passed_world_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Passed_world/Map_Passed_world_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Map_Passed_world/Map_Passed_world_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Passed_world/Map_Passed_world_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Passed_world/Map_Passed_world_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Passed_world/Map_Passed_world_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Map_Passed_world/Map_Passed_world_Master.wld"
     },
     "author_name": "Sergey",
     "description": "This is my almost completed world in it, I killed all the bosses except for the lunar, but it has all the nips except for the truffle (I created the mushroom biome and the truffle came with the princess, I broke the biome and the truffle dies and does not come) here I made a greenhouse hall of fame with all the relics and trophies as well as the world's three world evils 2 of them I separated a huge new bestiary filled to 90℅!!! 1 home slug of the mysterious slug is missing and the world is also created on the power of the constant (for beginners: this world has a hunger mechanic",
@@ -935,13 +935,13 @@
     "id": "fa255c50-efc9-418d-a99d-3ed8123d4db4",
     "type_id": "0",
     "name": "Maze Arenas",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Maze_Arenas/Maze_Arenas.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Maze_Arenas/Maze_Arenas.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Maze_Arenas/Maze_Arenas.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Maze_Arenas/Maze_Arenas.jpg"
     ],
     "difficulty": {
       "0": "",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Maze_Arenas/Maze_Arenas.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Maze_Arenas/Maze_Arenas.wld",
       "2": "",
       "3": ""
     },
@@ -959,12 +959,12 @@
     "id": "5bbdf9a1-ece8-474d-8bb5-eb8ae5865821",
     "type_id": "0",
     "name": "Terrari War",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Terrari_War/Terrari_War.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Terrari_War/Terrari_War.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Terrari_War/Terrari_War.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Terrari_War/Terrari_War.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Terrari_War/Terrari_War.wld",
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Terrari_War/Terrari_War.wld",
       "1": "",
       "2": "",
       "3": ""
@@ -983,13 +983,13 @@
     "id": "28a15794-498f-47ae-a93d-2a4be3a39175",
     "type_id": "0",
     "name": "Futuristick Arena",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Futuristick_arena/Futuristick_arena.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Futuristick_arena/Futuristick_arena.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Futuristick_arena/Futuristick_arena.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Futuristick_arena/Futuristick_arena.jpg"
     ],
     "difficulty": {
       "0": "",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Futuristick_arena/Futuristick_arena.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Futuristick_arena/Futuristick_arena.wld",
       "2": "",
       "3": ""
     },
@@ -1007,13 +1007,13 @@
     "id": "43fbc34e-72c3-4c70-a812-e98b22827ec9",
     "type_id": "0",
     "name": "The Amazing Race",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/The_Amazing_Race/The_Amazing_Race.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/The_Amazing_Race/The_Amazing_Race.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/The_Amazing_Race/The_Amazing_Race.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/The_Amazing_Race/The_Amazing_Race.jpg"
     ],
     "difficulty": {
       "0": "",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/The_Amazing_Race/The_Amazing_Race.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/The_Amazing_Race/The_Amazing_Race.wld",
       "2": "",
       "3": ""
     },
@@ -1031,13 +1031,13 @@
     "id": "07969cd5-b12c-4731-894d-bb2e7ae1f9e8",
     "type_id": "0",
     "name": "Alchemist's Peril",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Alchemists_Peril/Alchemists_Peril.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Alchemists_Peril/Alchemists_Peril.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Alchemists_Peril/Alchemists_Peril.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Alchemists_Peril/Alchemists_Peril.jpg"
     ],
     "difficulty": {
       "0": "",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Alchemists_Peril/Alchemists_Peril.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Alchemists_Peril/Alchemists_Peril.wld",
       "2": "",
       "3": ""
     },
@@ -1055,13 +1055,13 @@
     "id": "8797d085-31f1-4b88-a327-31cea89695c6",
     "type_id": "0",
     "name": "Dress Up Card",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Dress_Up_Card/Dress_Up_Card.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Dress_Up_Card/Dress_Up_Card.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Dress_Up_Card/Dress_Up_Card.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Dress_Up_Card/Dress_Up_Card.jpg"
     ],
     "difficulty": {
       "0": "",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Dress_Up_Card/Dress_Up_Card.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Dress_Up_Card/Dress_Up_Card.wld",
       "2": "",
       "3": ""
     },
@@ -1079,14 +1079,14 @@
     "id": "7016cf12-0ab0-4101-86b2-170ddebaea3d",
     "type_id": "0",
     "name": "Hide and seek Forest ",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Hide_and_seek_Forest/Hide_and_seek_Forest.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Hide_and_seek_Forest/Hide_and_seek_Forest.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Hide_and_seek_Forest/Hide_and_seek_Forest.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Hide_and_seek_Forest/Hide_and_seek_Forest.jpg"
     ],
     "difficulty": {
       "0": "",
       "1": "",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Hide_and_seek_Forest/Hide_and_seek_Forest.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Hide_and_seek_Forest/Hide_and_seek_Forest.wld",
       "3": ""
     },
     "author_name": "Sergeev Ilya",
@@ -1103,13 +1103,13 @@
     "id": "d27c38fb-53c7-4df0-831c-87a0f9f6c5a3",
     "type_id": "0",
     "name": "Death Arena",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Death_Arena/Death_Arena.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Death_Arena/Death_Arena.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Death_Arena/Death_Arena.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Death_Arena/Death_Arena.jpg"
     ],
     "difficulty": {
       "0": "",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Death_Arena/Death_Arena.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Death_Arena/Death_Arena.wld",
       "2": "",
       "3": ""
     },
@@ -1127,13 +1127,13 @@
     "id": "e6a16f07-acd7-453b-832f-417faed38e99",
     "type_id": "0",
     "name": "Hunger Games Card",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Hunger_Games_Card/Hunger_Games_Card.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Hunger_Games_Card/Hunger_Games_Card.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Hunger_Games_Card/Hunger_Games_Card.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Hunger_Games_Card/Hunger_Games_Card.jpg"
     ],
     "difficulty": {
       "0": "",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Hunger_Games_Card/Hunger_Games_Card.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Hunger_Games_Card/Hunger_Games_Card.wld",
       "2": "",
       "3": ""
     },
@@ -1151,13 +1151,13 @@
     "id": "16a0a4c4-e02c-4b9a-b4cd-9e3293d71d1d",
     "type_id": "0",
     "name": "Counter Strike",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Counter_Strike/Counter_Strike.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Counter_Strike/Counter_Strike.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Counter_Strike/Counter_Strike.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Counter_Strike/Counter_Strike.jpg"
     ],
     "difficulty": {
       "0": "",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Counter_Strike/Counter_Strike.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/PvP/Counter_Strike/Counter_Strike.wld",
       "2": "",
       "3": ""
     },
