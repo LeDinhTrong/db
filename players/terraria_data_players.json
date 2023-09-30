@@ -1,5 +1,425 @@
 [
   {
+    "id": "3d07cc83-67f2-49c5-82ea-a624837b7f84",
+    "type_id": "1",
+    "name": "Tero",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Tero/Tero_01.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Tero/Tero_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Tero/Tero_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Tero/Tero_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Tero/Tero_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Tero/Tero_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Tero/Tero_Hardcore.plr"
+    },
+    "author_name": "denis",
+    "description": "Has a lot of items\nDifficulty: medium\nMana:200\nLives:400\n2 pet\nThere is a flying drill\nThere is an ax, a pickaxe, a sword, a hook\nSuitable for survival",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "3a0c9e6f-1704-4b84-b9fe-cc988a69012c",
+    "type_id": "1",
+    "name": "Nashka",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Nashka/Nashka_01.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Nashka/Nashka_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Nashka/Nashka_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Nashka/Nashka_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Nashka/Nashka_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Nashka/Nashka_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Nashka/Nashka_Hardcore.plr"
+    },
+    "author_name": "Murafld",
+    "description": "A character with many accessories, summons and very excellent armor, there is a “driving drill” Legendary Zenith “Magic mirror* generally normal Persian, and also with bare summons, Persian is not for beginners, try it on hardmode)",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "c1dbf243-a8a2-4919-bbc6-196d1408b966",
+    "type_id": "1",
+    "name": "S1ndy",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/S1ndy/S1ndy_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/S1ndy/S1ndy_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/S1ndy/S1ndy_02.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/S1ndy/S1ndy_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/S1ndy/S1ndy_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/S1ndy/S1ndy_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/S1ndy/S1ndy_Hardcore.plr"
+    },
+    "author_name": "Wingle",
+    "description": "This is my first character from the world on it I survived in the world 100% bestiary 1.4.4 I",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "97f35425-7447-4265-864c-ebfa35df0a28",
+    "type_id": "1",
+    "name": "My Persian",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/My_Persian/My_Persian_01.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/My_Persian/My_Persian_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/My_Persian/My_Persian_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/My_Persian/My_Persian_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/My_Persian/My_Persian_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/My_Persian/My_Persian_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/My_Persian/My_Persian_Hardcore.plr"
+    },
+    "author_name": "V1e9w33",
+    "description": "This is my character he has the legendary zenith 999 mithril ingots and more",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "9bc63b73-9d45-4380-a51d-c7fc0857fc09",
+    "type_id": "1",
+    "name": "Gordon freeman & chell",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_02.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Hardcore.plr"
+    },
+    "author_name": "Freeman",
+    "description": "Freeman, Gordon Freeman is the protagonist of the one-name game Half life (1-2) and 2 episodes of the second part. Nuclear physicist. At the age of 27, he got a job working in the black mesa complex, where there was a cascade resonance due to the crystal that G-man brought.",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "bcc087fd-68bd-4178-8506-4e5742a395e8",
+    "type_id": "1",
+    "name": "Builder Warrior",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_02.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Hardcore.plr"
+    },
+    "author_name": "Brity ni",
+    "description": "This character is a Builder, I called him a warrior because he has several things for the war :). Now let's go through the character “briefly” 5 times on this character there are many things, all of them can be seen in the photo.",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "26fe1d68-8e97-40b7-800d-588ed9197e77",
+    "type_id": "1",
+    "name": "Warrior Brity ni",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Warrior_Brity_ni/Warrior_Brity_ni_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Warrior_Brity_ni/Warrior_Brity_ni_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Warrior_Brity_ni/Warrior_Brity_ni_02.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Warrior_Brity_ni/Warrior_Brity_ni_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Warrior_Brity_ni/Warrior_Brity_ni_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Warrior_Brity_ni/Warrior_Brity_ni_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Warrior_Brity_ni/Warrior_Brity_ni_Hardcore.plr"
+    },
+    "author_name": "Brity ni",
+    "description": "This character is a warrior, he has a lot of stuff in his inventory, even for yoyo. In principle, in the photo you can see what it is like. In principle, this is all that can be said.",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "c27b44b1-5feb-47e4-bf1c-6097363d16c5",
+    "type_id": "1",
+    "name": "Fionicle (shooter)",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_shooter/Fionicle_shooter_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_shooter/Fionicle_shooter_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_shooter/Fionicle_shooter_02.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_shooter/Fionicle_shooter_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_shooter/Fionicle_shooter_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_shooter/Fionicle_shooter_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_shooter/Fionicle_shooter_Hardcore.plr"
+    },
+    "author_name": "Brity ni",
+    "description": "The character's name is Fionicle, that is, the sister of Fionicle. This character has a lot of things on it, the best Armor, perhaps the best accessories, and things. It has 3 vehicles and a bunch of stuff. You can see everything in the photo",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "0e16d75b-20d6-434f-a55d-d5ae2c83944d",
+    "type_id": "1",
+    "name": "Fionicles Mage",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_Mage/Fionicle_Mage_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_Mage/Fionicle_Mage_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_Mage/Fionicle_Mage_02.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_Mage/Fionicle_Mage_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_Mage/Fionicle_Mage_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_Mage/Fionicle_Mage_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Fionicle_Mage/Fionicle_Mage_Hardcore.plr"
+    },
+    "author_name": "Brity ni",
+    "description": "His name is Fionicle is a magician. It has a lot of resources and items for the summoner and also 2000 mana regan potions",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "f87f1ba7-56e8-46ac-b6df-f8160aad5067",
+    "type_id": "1",
+    "name": "Denis",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Denis/Denis_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Denis/Denis_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Denis/Denis_02.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Denis/Denis_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Denis/Denis_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Denis/Denis_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Denis/Denis_Hardcore.plr"
+    },
+    "author_name": "Denis",
+    "description": "Very good didn’t let me down with it I’m more confident and I advise you to download and play for health suitable for beginners and also for amateurs",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "71accecd-4f1e-4056-bf51-e266f67cd5c9",
+    "type_id": "1",
+    "name": "Persian made for building",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Persian_made_for_building/Persian_made_for_building_01.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Persian_made_for_building/Persian_made_for_building_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Persian_made_for_building/Persian_made_for_building_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Persian_made_for_building/Persian_made_for_building_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Persian_made_for_building/Persian_made_for_building_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Persian_made_for_building/Persian_made_for_building_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Persian_made_for_building/Persian_made_for_building_Hardcore.plr"
+    },
+    "author_name": "Kostya",
+    "description": "A character from terraria for which I create a world that I have already released. This character has expensive things, but there is no money. Therefore, it is clear that I am a boh by profession and a sucker in life.",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "ce31b775-5e23-4b3b-a780-c645b6dc23f2",
+    "type_id": "1",
+    "name": "Multiple classes",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Multiple_classes/Multiple_classes_01.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Multiple_classes/Multiple_classes_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Multiple_classes/Multiple_classes_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Multiple_classes/Multiple_classes_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Multiple_classes/Multiple_classes_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Multiple_classes/Multiple_classes_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Multiple_classes/Multiple_classes_Hardcore.plr"
+    },
+    "author_name": "Xdanyl3469",
+    "description": "In this Persian there are 3 classes at once: warrior, shooter and summoner. (to switch to the armor menu, click the icon with a person and choose) there are axes for each class (wings, terra-workers and decorations only on the warrior :0 ) all items are reforged (some items and axes are not forged on <<legendary>> or <<+ 4>> :[ ) there are all weapons for classes: whip with the sword of the Empress, zenith. There is a bag of void, laser drill, stardust pickaxe.",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "4378b882-ce8f-48ec-9a09-74e90fb630b3",
+    "type_id": "1",
+    "name": "Wendy",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wendy/Wendy_01.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wendy/Wendy_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wendy/Wendy_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wendy/Wendy_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wendy/Wendy_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wendy/Wendy_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wendy/Wendy_Hardcore.plr"
+    },
+    "author_name": "Parsifal",
+    "description": "As I wrote, there will be problems! I didn't know how to do perfect white eyes",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "89857965-8fe8-49da-8afe-317543b9e9b0",
+    "type_id": "1",
+    "name": "Wilson",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wilson/Wilson_01.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wilson/Wilson_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wilson/Wilson_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wilson/Wilson_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wilson/Wilson_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wilson/Wilson_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Wilson/Wilson_Hardcore.plr"
+    },
+    "author_name": "Parsifal",
+    "description": "Wilson, why is he?\nIts easy to make!\nI could do Wendy but I was too lazy ...\nIt can be made, as there are all the materials for creating a character.\nBut there will be problems with the eyes, straight white-white, I can’t do it.\nBut there is a great idea!",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "76d6a26b-ed08-4993-9ffc-74afff93c9c9",
+    "type_id": "1",
+    "name": "Ezio",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ezio/Ezio_01.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ezio/Ezio_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ezio/Ezio_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ezio/Ezio_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ezio/Ezio_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ezio/Ezio_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ezio/Ezio_Hardcore.plr"
+    },
+    "author_name": "Parsifal",
+    "description": "Ezio.?\nI thought it was Altair!\nTried to make it as similar as possible\nAs you can see it worked!",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "ec27283f-a922-41df-8a89-6317c0f528ba",
+    "type_id": "1",
+    "name": "Obi-Wan Kenobi",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Obi_Wan_Kenobi/Obi_Wan_Kenobi_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Obi_Wan_Kenobi/Obi_Wan_Kenobi_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Obi_Wan_Kenobi/Obi_Wan_Kenobi_02.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Obi_Wan_Kenobi/Obi_Wan_Kenobi_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Obi_Wan_Kenobi/Obi_Wan_Kenobi_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Obi_Wan_Kenobi/Obi_Wan_Kenobi_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Obi_Wan_Kenobi/Obi_Wan_Kenobi_Hardcore.plr"
+    },
+    "author_name": "Parsifal505",
+    "description": "This character was not created for the passage, but if you are risky, then I advise you to pass on the master ...\n୧⁠(⁠＾⁠ ⁠〰⁠ ⁠＾⁠)⁠୨\nOr maybe on a trip!\n\nTried to pass on the master\ncould not...",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "d86366e8-496a-49f3-80ab-d40b526891d4",
+    "type_id": "1",
+    "name": "Shin v2",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Shin_v2/Shin_v2_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Shin_v2/Shin_v2_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Shin_v2/Shin_v2_02.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Shin_v2/Shin_v2_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Shin_v2/Shin_v2_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Shin_v2/Shin_v2_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Shin_v2/Shin_v2_Hardcore.plr"
+    },
+    "author_name": "Parsifal505",
+    "description": "The reworked character Shin, I still completed it and a bonus, HERE!\nYou see in the picture, its second slot. You can play from Journey to Master as you like (⁠≧⁠▽⁠≦⁠)\nShin, created for the passage of the game. This given character, you may like it, if, of course, you understand how to play it. You can play in all modes, from travel to master.",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "9ea532a4-efb6-4aec-8f4c-d98e72ee233b",
+    "type_id": "1",
+    "name": "Laugh ΔΙΆΒΟΛΟΣ",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Laugh/Laugh_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Laugh/Laugh_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Laugh/Laugh_02.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Laugh/Laugh_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Laugh/Laugh_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Laugh/Laugh_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Laugh/Laugh_Hardcore.plr"
+    },
+    "author_name": "Pavel",
+    "description": "A good person who depends on terraria, as the youtuber once said. This is my first time passing in an expert. I will also lay out the world so that you understand how I tried?",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "ca86156d-d769-4b49-b170-7e8920c71704",
+    "type_id": "1",
+    "name": "You",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/You/You_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/You/You_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/You/You_02.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/You/You_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/You/You_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/You/You_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/You/You_Hardcore.plr"
+    },
+    "author_name": "Pavel",
+    "description": "For this character, I went through the world called GG, you can also download it. I spent 40 hours. An expert world and character will be released soon if you like",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
+    "id": "3c8bb136-b21a-496b-93e9-41089de6c58e",
+    "type_id": "1",
+    "name": "Top 1 Persian",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Top_1_Persian/Top_1_Persian_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Top_1_Persian/Top_1_Persian_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Top_1_Persian/Top_1_Persian_02.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Top_1_Persian/Top_1_Persian_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Top_1_Persian/Top_1_Persian_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Top_1_Persian/Top_1_Persian_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Top_1_Persian/Top_1_Persian_Hardcore.plr"
+    },
+    "author_name": "Den4ik",
+    "description": "I will tell you that this Persian was top until the update came out and this Persian died. And he became a legend before update 1.4.4.4 and everything should be fine",
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-08-08 19:40:49.099"
+  },
+  {
     "id": "a1596587-05b3-4cc3-9be3-fac56507c81b",
     "type_id": "1",
     "name": "Ellie",
@@ -13,7 +433,7 @@
       "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ellie/EllieMedium.plr",
       "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Ellie/EllieHardcore.plr"
     },
-    "author_name": "ldtr",
+    "author_name": "Parsifal",
     "description": "",
     "hot_priority": "1",
     "download_count": "0",
