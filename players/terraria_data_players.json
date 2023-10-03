@@ -108,16 +108,16 @@
     "id": "bcc087fd-68bd-4178-8506-4e5742a395e8",
     "type_id": "1",
     "name": "Builder Warrior",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Builder_Warrior/Builder_Warrior_01.jpg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Builder_Warrior/Builder_Warrior_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Builder_Warrior/Builder_Warrior_02.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Builder_Warrior/Builder_Warrior_Journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Builder_Warrior/Builder_Warrior_Classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Builder_Warrior/Builder_Warrior_Medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/players/Builder_Warrior/Builder_Warrior_Hardcore.plr"
     },
     "author_name": "Brity ni",
     "description": "This character is a Builder, I called him a warrior because he has several things for the war :). Now let's go through the character “briefly” 5 times on this character there are many things, all of them can be seen in the photo.",

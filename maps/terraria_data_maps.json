@@ -1,5 +1,333 @@
 [
   {
+    "id": "a6aac043-163d-4190-b124-349b06d26e8e",
+    "type_id": "0",
+    "name": "Void city",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Void_city/Void_city.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Void_city/Void_city.jpg"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Void_city/Void_city_Classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "arturzitoon",
+    "description": "In this city have: houses, NPC, a arena of pvp, arena of traing, arena for bosses, and many biomes and places\nAnd have a gift for you and a hiding place with 5 kits of armor stuffs and weapons",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "60161465-5727-47bd-8c24-702cf11482ce",
+    "type_id": "0",
+    "name": "Builder's Workshop",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Builders_Workshop/Builders_Workshop_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Builders_Workshop/Builders_Workshop_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Builders_Workshop/Builders_Workshop_02.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Builders_Workshop/Builders_Workshop_03.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Builders_Workshop/Builders_Workshop_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Builders_Workshop/Builders_Workshop_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Builders_Workshop/Builders_Workshop_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Builders_Workshop/Builders_Workshop_Master.wld"
+    },
+    "author_name": "TelBuilds",
+    "description": "Map Contents:\nAll placeable items currently in-game\nAll NPCs\nAt least four copies of most armor, tools, weapons, and accessories\nA limited stock (mostly one stack each) of most crafting materials\nLots and lots of empty flat space.\nThe only thing on this world besides the buildings you spawn in is flat ground. It starts slightly above the underground and continues clear down into what would be hell. If you load this on a map viewer it is the most boring world in existence.\nThis does, however, make it a perfect place to design a dungeon, play with wiring systems and traps, or test different combinations of building materials to find a selection you like the look of.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "c51136c3-f631-498f-bd7e-fe1198a00e48",
+    "type_id": "0",
+    "name": "COMPACT ALL ITEMS HUB",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_01.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_03.jpg"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_Master.wld"
+    },
+    "author_name": "XTRAcamz",
+    "description": "Are you a Terraria Vet in the midst of a build and simply want the easiest and quickest access, directly to the block/s, item/s, or material/s your after?\nAre you new to the game, and would like to start learning about, and building with all Terraria has to offer right from the get go?\nEither way, your in the right place!\nAllow me to introduce and welcome you to the \"SUNV XTRA_ALL ITEMS-1.4+/2022! (PC & MOBILE!) WORLD!\"\nWith this world in your Terraria world's list, you will have access to the easiest and quickest, most compact, 1.4+ ALL ITEM'S WORLD to date!...\n(Granted you may need a day to familiarize yourself with the world, as you would any other!)\nOnce you have though, the Terraria universe is at your finger tips!\nSo, get your hands on the \"SUNV XTRA_ALL ITEMS-1.4+/2022! (PC & MOBILE!)\" world, and start your journey today!...",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "e295ed36-d3d0-4108-b70b-ebb213768232",
+    "type_id": "0",
+    "name": "The Shimmer Lands",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/The_Shimmer_Lands/The_Shimmer_Lands.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/The_Shimmer_Lands/The_Shimmer_Lands.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/The_Shimmer_Lands/The_Shimmer_Lands_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/The_Shimmer_Lands/The_Shimmer_Lands_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/The_Shimmer_Lands/The_Shimmer_Lands_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/The_Shimmer_Lands/The_Shimmer_Lands_Master.wld"
+    },
+    "author_name": "scopeymopey",
+    "description": "The Shimmer Lands is a Custom ‘All Items Map’ & ‘Adventure Map’ created to grant Terraria players across all platforms any Items they need as well as NPC’s, and beautiful housing to survive the night in, Having these things allows players to venture their own worlds, safely knowing enemy won’t stand a chance!\nSo loot up! Adventure up! Discover hidden secrets! Explore the Lands of Shimmery pools & crystal mountains, and take down End Game Bosses like a piece of cake.\nThis Map contains a Variety of Different features to explore and Discover. This is including:\n-Every Item For Terraria 1.4.4 (onwards)\n-Crystal Infested Mountains\n-All NPC’s/Pets/Slime Pets\n-A Starter Chest with Generally Useful Items\n-A Starter House\n-Large Pools of Shimmer\n-Hidden Secrets Scattered around the World!",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "ab881e24-83c5-4269-b418-d342cdb9fb7a",
+    "type_id": "0",
+    "name": "Scopey's",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Scopeys/Scopeys_01.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Scopeys/Scopeys_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Scopeys/Scopeys_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Scopeys/Scopeys_04.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Scopeys/Scopeys_Classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "scopeymopey",
+    "description": "This world contains not just every item... But every NPC in the game! Having all NPCs, will allow ‘you‘ to get shopping for your favourite items and handy/useful Goods!\nThis map is adventurous! There are many secret locations created for your personal entertainment and skills of survival!\nMost importantly, this map was created with Love, Thoughts and creative ideas to produce an all items world With adventure.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "0788ed6c-4b2d-4496-8191-85312d26b76a",
+    "type_id": "0",
+    "name": "Skyblock Challenge",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Skyblock_Challenge/Skyblock_Challenge.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Skyblock_Challenge/Skyblock_Challenge.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Skyblock_Challenge/Skyblock_Challenge_Expert.wld"
+    },
+    "author_name": "miki3390",
+    "description": "This map contains other islands, apart from the starter one. Each one consists of a loot chests inside. There are currently 8 islands in total. Those are:\n-a Lihzahrd Altar\n-a Demon Altar\n-a Queen Bee spawner\n-starter island\n-the Ocean\n-the Dungeon\n-a herb growing lab\n-a snow island\nYou should be able to defeat every boss in this map, without getting items from other worlds.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "0f785296-3e23-4dee-95e0-6a28ebbe4d9c",
+    "type_id": "0",
+    "name": "ALL ITEMS MAP",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/ALL_ITEMS_MAP/ALL_ITEMS_MAP.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/ALL_ITEMS_MAP/ALL_ITEMS_MAP.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/ALL_ITEMS_MAP/ALL_ITEMS_MAP_Master.wld",
+      "3": ""
+    },
+    "author_name": "scopeymopey",
+    "description": "This map Contains all of Scopey Mopey’s previous All Item Worlds combined with new twists, new structures, and all latest Items added to the game. These maps and changes include:\n-A Teleportation Hub: For quick travel and easy access to All items. (NEW)\n-Space Craft with All 1.4.4+ Items: (NEW)\n-Scopey The Dopey-Mopey 1.3 All Item Map: Original Structure.\n-World Of Light 1.4 All Item Map: Original Structure.\n-Scopey&Swizz 1.3 All Item Map: Original Structure.\n-Scopey&Jbro129 1.3 All Item Map: Original Structure.\n-Scopey&LilTerrarian 1.3 All Item Map: Original Structure.\n-Scopey&Lolpt 1.3 All Item Map: Original Structure.\n-Scopey Mopey’s Private Blimp: Original Structure.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "e8dbe1af-208b-4e16-ad54-beea8dbbc4a8",
+    "type_id": "0",
+    "name": "Starter World",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Starter_World/Starter_World.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Starter_World/Starter_World.jpg"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Starter_World/Starter_World_Master.wld",
+      "3": ""
+    },
+    "author_name": "AkoyPinoy03",
+    "description": "World:\nMedium\nCorruption\nAll difficulties available\nNo bosses defeated and completely unexplored\nThe bases consist of:\n1. A large farm\n2. NPC housing\n3. A crafting area\n4. A storage area\n5. A potion brewery  \n6. A gel farm (other statues only drop items when hit by summon)\n7. A centralized spawn area (initial spawn is the center of the base)\n8. Dedicated fishing for almost every biome (Sky lake is right above arena)\n9. A large glowing mushroom farm (with a harvest switch). Yields ~1000 mushrooms on full harvest.\n10. An Etherian arena (Also works for invasions and blood moons, just stand on one side. Can also place Lihzahrd Altar underneath within the honey.)\n11. 8 Pylons (Forest, Jungle, Ocean, Mushroom, Desert, Cavern, Hollow, and Snow). There is a hellevator in the Cavern base and the Desert pylon is near the Dungeon. Basic NPCs have been spawned to allow pylon usage with the exception of Hollow.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "978cb3ba-8c92-4242-8468-7802f0959907",
+    "type_id": "0",
+    "name": "Khaiostomization",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Khaiostomization/Khaiostomization.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Khaiostomization/Khaiostomization.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Khaiostomization/Khaiostomization_Classic.wld",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Khaiostomization/Khaiostomization_Expert.wld"
+    },
+    "author_name": "KhaiosLive",
+    "description": "This is a large vanilla world with crimson, where I built a detailed base, and customized dungeon. The base has a large crafting area (with early-game crafting stations readily available), large storage area, housing for all NPCs (as of version 1.3.5), fishing ponds for all angler quests, herb farm, glowing mushroom farm, and a hellevator with a miniature base at the bottom of it.\nThe dungeon has been completely customized from scratch. It has all of the loot you would expect to find within a dungeon, as well as an additional fishing pond, and safe area to set your spawn point. The entrance has been completely customized, but will still spawn the cultists in hardmode. The dungeon itself has unique challenges within it, as well as a half dozen secret areas. You can make it as easy or difficult as you'd like by mining and placing blocks, or trying the challenges without changing the dungeon. Explore, and have fun!",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "c4f7d0c9-d4ef-41ed-a3c4-200c2474a607",
+    "type_id": "0",
+    "name": "THE KINGDOM",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/THE_KINGDOM/THE_KINGDOM_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/THE_KINGDOM/THE_KINGDOM_01.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/THE_KINGDOM/THE_KINGDOM_02.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/THE_KINGDOM/THE_KINGDOM_03.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/THE_KINGDOM/THE_KINGDOM_04.jpg"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/THE_KINGDOM/THE_KINGDOM_Classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "juicebox1023",
+    "description": "It is a complete world with many farms, armory, library, space center and much much more.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "a8b0d4c6-4cb1-4d7b-8d42-93d07aaf1668",
+    "type_id": "0",
+    "name": "World Of Terra",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/World_Of_Terra/World_Of_Terra_01.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/World_Of_Terra/World_Of_Terra_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/World_Of_Terra/World_Of_Terra_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/World_Of_Terra/World_Of_Terra_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/World_Of_Terra/World_Of_Terra_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/World_Of_Terra/World_Of_Terra_06.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/World_Of_Terra/World_Of_Terra_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/World_Of_Terra/World_Of_Terra_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/World_Of_Terra/World_Of_Terra_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/World_Of_Terra/World_Of_Terra_Master.wld"
+    },
+    "author_name": "daromaxa",
+    "description": "Experience Terraria in a brand new way with this exciting adventure that introduces a wide range of changes. This world has been transformed with the addition of several dungeons, golf courses, rest areas, stories, boss arenas, puzzles, and many other places and treasures to discover, all without altering the base game or its rules.\nThis map is perfect for starting a new game, whether you prefer to play alone or with a team. In short, the adventure awaits you!\n\nMap Information:\nDrunk mod\nAvailable in classic, expert, master, and journey modes\nNo bosses have been defeated\nMedium-sized world\nNo rules",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "0400ea7f-b6ba-4193-ad58-c018554a7ddf",
+    "type_id": "0",
+    "name": "All unobtainable items map",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/All_unobtainable_items_map/All_unobtainable_items_map.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/All_unobtainable_items_map/All_unobtainable_items_map.jpg"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/All_unobtainable_items_map/All_unobtainable_items_map_Expert.wld"
+    },
+    "author_name": "arturzitoon",
+    "description": "What's a unobtainable item?\nUnobtainable refers to fully functional (or partially functional) features which for some reason are unavailable during normal gameplay. They are only accessible through game modification software like inventory editors and tools like Terraria Tweaker, the latter which prevents automatic in-game removal of unobtainable items. Features may also be labeled as unobtainable due to being only partially obtainable\nUnimplemented refers to features that are only partially present in the game files. Due to incomplete coding, being replaced by another feature (such as another item), or forced deletion, they cannot be accessed in-game, even with software like inventory editors. The only exception to this inaccessibility is the Boring Bow, which can be placed in the inventory.\nRemoved refers to features that have been completely removed from the game for various reasons, ranging from copyright liability to former-exclusivity. There is no longer any data related to them present in the game's files, and their Data IDs are typically replaced by something else.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "86732a1c-a5c9-4c54-a805-0361dbfd4ef2",
+    "type_id": "0",
+    "name": "Dark Souls Adventure Map: The Story of Red Cloud",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Dark_Souls/Dark_Souls_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Dark_Souls/Dark_Souls_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Dark_Souls/Dark_Souls_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Dark_Souls/Dark_Souls_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Dark_Souls/Dark_Souls_05.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Dark_Souls/Dark_Souls_Expert.wld"
+    },
+    "author_name": "vibrent",
+    "description": "The Story of Red Cloud is a massive Dark Souls-inspired adventure built inside the world of Terraria using a custom map, mod and companion soundtrack.\nDeveloped over 6 years, your 1-4 player journey will span 18 dungeons spread across an expansive, hand-crafted open world, offering a 20 to 30+ hr experience for a first playthrough.\n\nTOP FEATURES\n\t*Companion Soundtrack with 59 songs! (Dark Souls, Elden Ring and Zelda fans will love it)\n\t*42 bosses (17 vanilla plus 25 mod bosses)\n\t*100+ new NPCS including 8 friendly NPCs\n\t*Over 800 new mod items, weapons, and armors, both original and remixed from two dozen of the best classic mods from the community\n\t*Dark Souls game mechanics, including bonfire save points and the dodge roll\n\t*The mod enforces old-school adventure map rules, so if you can do it, it's okay to do it!\n\t*800+ chests to loot, containing almost every item in base Terraria",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
     "id": "4929ec8f-ccc2-4c50-b708-7f9ecf17b038",
     "type_id": "0",
     "name": "Trial Lighting",
