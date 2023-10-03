@@ -177,9 +177,9 @@
     "id": "e8dbe1af-208b-4e16-ad54-beea8dbbc4a8",
     "type_id": "0",
     "name": "Starter World",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Starter_World/Starter_World.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Starter_World/Starter_World.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Starter_World/Starter_World.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Starter_World/Starter_World.png"
     ],
     "difficulty": {
       "0": "",
@@ -280,9 +280,9 @@
     "id": "0400ea7f-b6ba-4193-ad58-c018554a7ddf",
     "type_id": "0",
     "name": "All unobtainable items map",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/All_unobtainable_items_map/All_unobtainable_items_map.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/All_unobtainable_items_map/All_unobtainable_items_map.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/All_unobtainable_items_map/All_unobtainable_items_map.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/All_unobtainable_items_map/All_unobtainable_items_map.png"
     ],
     "difficulty": {
       "0": "",
