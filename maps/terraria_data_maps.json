@@ -24,6 +24,32 @@
     "createTime": "2023-09-19 22:14:30.089"
   },
   {
+    "id": "e006cd78-6506-437f-9a8a-b3cc4ef41e97",
+    "type_id": "0",
+    "name": "The Legend of Zelda",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/The_Legend_of_Zelda/The_Legend_of_Zelda_01.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/The_Legend_of_Zelda/The_Legend_of_Zelda_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/The_Legend_of_Zelda/The_Legend_of_Zelda_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/The_Legend_of_Zelda/The_Legend_of_Zelda_04.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/The_Legend_of_Zelda/The_Legend_of_Zelda_Journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "ahamling27",
+    "description": "Play as Link and fight your way through nine dungeons. Bring peace back to the land of Hyrule and save the princess Zelda!",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
     "id": "60161465-5727-47bd-8c24-702cf11482ce",
     "type_id": "0",
     "name": "Builder's Workshop",
@@ -60,9 +86,9 @@
       "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_03.jpg"
     ],
     "difficulty": {
-      "0": "",
-      "1": "",
-      "2": "",
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_Expert.wld",
       "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_Master.wld"
     },
     "author_name": "XTRAcamz",
@@ -134,10 +160,10 @@
       "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Skyblock_Challenge/Skyblock_Challenge.png"
     ],
     "difficulty": {
-      "0": "",
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Skyblock_Challenge/Skyblock_Challenge_Journey.wld",
       "1": "",
-      "2": "",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Skyblock_Challenge/Skyblock_Challenge_Expert.wld"
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Skyblock_Challenge/Skyblock_Challenge_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Skyblock_Challenge/Skyblock_Challenge_Master.wld"
     },
     "author_name": "miki3390",
     "description": "This map contains other islands, apart from the starter one. Each one consists of a loot chests inside. There are currently 8 islands in total. Those are:\n-a Lihzahrd Altar\n-a Demon Altar\n-a Queen Bee spawner\n-starter island\n-the Ocean\n-the Dungeon\n-a herb growing lab\n-a snow island\nYou should be able to defeat every boss in this map, without getting items from other worlds.",
@@ -160,8 +186,8 @@
     "difficulty": {
       "0": "",
       "1": "",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/ALL_ITEMS_MAP/ALL_ITEMS_MAP_Master.wld",
-      "3": ""
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/ALL_ITEMS_MAP/ALL_ITEMS_MAP_Master.wld"
     },
     "author_name": "scopeymopey",
     "description": "This map Contains all of Scopey Mopey’s previous All Item Worlds combined with new twists, new structures, and all latest Items added to the game. These maps and changes include:\n-A Teleportation Hub: For quick travel and easy access to All items. (NEW)\n-Space Craft with All 1.4.4+ Items: (NEW)\n-Scopey The Dopey-Mopey 1.3 All Item Map: Original Structure.\n-World Of Light 1.4 All Item Map: Original Structure.\n-Scopey&Swizz 1.3 All Item Map: Original Structure.\n-Scopey&Jbro129 1.3 All Item Map: Original Structure.\n-Scopey&LilTerrarian 1.3 All Item Map: Original Structure.\n-Scopey&Lolpt 1.3 All Item Map: Original Structure.\n-Scopey Mopey’s Private Blimp: Original Structure.",
@@ -182,10 +208,10 @@
       "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Starter_World/Starter_World.png"
     ],
     "difficulty": {
-      "0": "",
-      "1": "",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Starter_World/Starter_World_Master.wld",
-      "3": ""
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Starter_World/Starter_World_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Starter_World/Starter_World_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Starter_World/Starter_World_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Starter_World/Starter_World_Master.wld"
     },
     "author_name": "AkoyPinoy03",
     "description": "World:\nMedium\nCorruption\nAll difficulties available\nNo bosses defeated and completely unexplored\nThe bases consist of:\n1. A large farm\n2. NPC housing\n3. A crafting area\n4. A storage area\n5. A potion brewery  \n6. A gel farm (other statues only drop items when hit by summon)\n7. A centralized spawn area (initial spawn is the center of the base)\n8. Dedicated fishing for almost every biome (Sky lake is right above arena)\n9. A large glowing mushroom farm (with a harvest switch). Yields ~1000 mushrooms on full harvest.\n10. An Etherian arena (Also works for invasions and blood moons, just stand on one side. Can also place Lihzahrd Altar underneath within the honey.)\n11. 8 Pylons (Forest, Jungle, Ocean, Mushroom, Desert, Cavern, Hollow, and Snow). There is a hellevator in the Cavern base and the Desert pylon is near the Dungeon. Basic NPCs have been spawned to allow pylon usage with the exception of Hollow.",
@@ -208,8 +234,8 @@
     "difficulty": {
       "0": "",
       "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Khaiostomization/Khaiostomization_Classic.wld",
-      "2": "",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Khaiostomization/Khaiostomization_Expert.wld"
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Khaiostomization/Khaiostomization_Expert.wld",
+      "3": ""
     },
     "author_name": "KhaiosLive",
     "description": "This is a large vanilla world with crimson, where I built a detailed base, and customized dungeon. The base has a large crafting area (with early-game crafting stations readily available), large storage area, housing for all NPCs (as of version 1.3.5), fishing ponds for all angler quests, herb farm, glowing mushroom farm, and a hellevator with a miniature base at the bottom of it.\nThe dungeon has been completely customized from scratch. It has all of the loot you would expect to find within a dungeon, as well as an additional fishing pond, and safe area to set your spawn point. The entrance has been completely customized, but will still spawn the cultists in hardmode. The dungeon itself has unique challenges within it, as well as a half dozen secret areas. You can make it as easy or difficult as you'd like by mining and placing blocks, or trying the challenges without changing the dungeon. Explore, and have fun!",
@@ -240,6 +266,131 @@
     },
     "author_name": "juicebox1023",
     "description": "It is a complete world with many farms, armory, library, space center and much much more.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "5216e1b4-17de-4862-8ba0-a7d7370f75a7",
+    "type_id": "0",
+    "name": "All in One Map",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/All_in_One_Map/All_in_One_Map.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/All_in_One_Map/All_in_One_Map.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/All_in_One_Map/All_in_One_Map_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/All_in_One_Map/All_in_One_Map_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/All_in_One_Map/All_in_One_Map_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/All_in_One_Map/All_in_One_Map_Master.wld"
+    },
+    "author_name": "Loki1300",
+    "description": "- Added an ocean cave.\n- Made the sword shrine have a chest with both the sword and Terragrim.\n- Added an extra chamber below the pyramid with the missing items from the chest.\n- Added a graveyard, for Biome completeness and for hardcore characters.\n- Added all Moss types. (NOTE Tedit did not handle Moss well, so I am not 100% sure this is working. I added all the moss types in a long line below the snow Biome If you wanted to know where to find them.)\n- I added all Ore types both pre and post Hardmode. I did the pre-hardmode ores by mass replacing ore types in huge 200x200 lines spanning the whole map. Some are straight lines down, some are horizontal sections. The ores are pretty close to 50:50 each, but Copper and Tin are the closest, only a few 100 difference overall. Once in Hardmode, since the world counts as \"Drunk\" (NOTE The base seed is NOT a drunk seed. I changed to Drunk after initial world gen) as altars are broken you will get all 6 ore types.\n- Added a few more Demon Altars to help get more ore types given you are getting 6 HM ore types vs 3.\n- I added the removed Heart Shrine micro Biome in the Snow Biome, why? Because why not.\n- Made one of the beehives larger than the rest.\n- Speaking of Crimson, I added a Crimson chest with proper items into the Dungeon.\n- Speaking of the Dungeon, made 3 colors preset in the world, replaced all items in each section with the proper brick,background, items, etc. I also added a bit of extra brick and background in some places, so if you want to build an arena in a certain color type, you should have plenty of space to do so.\n- I added tons more temple traps, ~100 Spiky ball traps, ~25 Spear traps, ~10 flame traps.\n- I made sure every chest item was spawned into the world at least once.\n- I added every painting. (NOTE I am not 100% sure, Tedit updated mid way through my progress and it made placing sprites way harder, and I couldn't find paintings anymore. Because of this ONLY the Dungeon has the paintings on the wall placed by me. For the Desert and Underground paintings, I added at least 1 of each one to a chest. So between the naturally spawned paintings and my added ones, every painting Should be in the game. Underworld paintings as far as I could count all spawned naturally.) (SIDE NOTE. Speaking of underworld only about half the chest items spawned naturally with world gen, I added the rest in by hand.)\n- I added a few missing banners.\n-  And finally I added every naturally occurring statue. (NOTE as with paintings, this changed mid way, so I am not 100% sure I got them all.) I will say the 1 Heart Statue that I placed, is in the Heart Shrine in the snow Biome.\n- Added Moonlord pants to a chest somewhere in the world\n- Added a few Red Potions to some chests throughout the world ",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "ce8123fa-873e-4fd4-ba58-3ea9c7e44f86",
+    "type_id": "0",
+    "name": "ShimmerBlock",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/ShimmerBlock/ShimmerBlock.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/ShimmerBlock/ShimmerBlock.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/ShimmerBlock/ShimmerBlock_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/ShimmerBlock/ShimmerBlock_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/ShimmerBlock/ShimmerBlock_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/ShimmerBlock/ShimmerBlock_Master.wld"
+    },
+    "author_name": "ChiefLogan3010",
+    "description": "Can you progress from nothing but a small pool of Shimmer* all the way to defeating the Moon Lord?\nWell, yes, as long as you're prepared to die... A lot.\nAs a twist on regular Skyblock maps, this one needs to be played on MediumCore, If you start on classic or hardcore, you'll quickly find there's almost nothing you can do to progress.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "f94d6a08-825f-4a60-a929-ed1ee6f621ff",
+    "type_id": "0",
+    "name": "R'lyeh Nexus",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Rlyeh_Nexus/Rlyeh_Nexus_01.jpeg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Rlyeh_Nexus/Rlyeh_Nexus_01.jpeg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Rlyeh_Nexus/Rlyeh_Nexus_02.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Rlyeh_Nexus/Rlyeh_Nexus_03.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Rlyeh_Nexus/Rlyeh_Nexus_Classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "Feistygandhi",
+    "description": "You are an inter-dimensional warrior tasked with a daunting quest: save the multiverse by destroying the Moon Lord in his home realm!  In order to confront him, you must first defeat his allies - each a lord of his own plane.  The order you confront them is up to you!\n-1 to 3 players!\n-Class specialization!\n-Each boss has a reward item posted in the hub.  Devise your own strategies!\n-Each stage has multiple hidden chests with extra loot!\n-Hella bosses!\n-Dramatically varied environments - every stage is its own dimension!\n-Achievements! (E.G. beat bosses without using Healing Potions)\n-Secret stuff!",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "49be3c87-9a4c-4470-beaa-da65dd61d680",
+    "type_id": "0",
+    "name": "Shimmering Skies",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Shimmering_Skies/Shimmering_Skies_01.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Shimmering_Skies/Shimmering_Skies_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Shimmering_Skies/Shimmering_Skies_03.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Shimmering_Skies/Shimmering_Skies_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Shimmering_Skies/Shimmering_Skies_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Shimmering_Skies/Shimmering_Skies_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Shimmering_Skies/Shimmering_Skies_Master.wld"
+    },
+    "author_name": "freedbot",
+    "description": "SOFTLOCK PREVENTION\n\t-Keep a block/platform under the spawn point at all times to avoid falling death loops.\n\t-Don't spill the shimmer or lose the Lihzahrd Altar (obviously).\n\t-Don't break the Lihzahrd background wall. It can't be shimmered back into treacherous wall until Golem is dead.\n\t-Don't convert the ice all the way down to snow at the start, just because that's fewer blocks.\n\t-Don't kill the Skeletron Prime part of Mechdusa until you have killed the other parts at least once, or have plenty of spare mechanical skulls.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-09-19 22:14:30.089"
+  },
+  {
+    "id": "4eb573aa-ce27-4d1e-9a45-af2a72186cda",
+    "type_id": "0",
+    "name": "Red Hat Castle",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Red_Hat_Castle/Red_Hat_Castle_01.jpg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Red_Hat_Castle/Red_Hat_Castle_02.jpg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Red_Hat_Castle/Red_Hat_Castle_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Red_Hat_Castle/Red_Hat_Castle_04.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Red_Hat_Castle/Red_Hat_Castle_Classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "Feistygandhi",
+    "description": "Red Hat Castle is a non-linear adventure map originally that's inspired by many influences from 80s, 90s and 2000s adventure titles, including Castlevania, Zelda, Metroid, and Dark Souls.  You explore a large castle and its surrounding zones on a quest to remove the king's curse.  There are 3 built-in difficulty settings, each with unique content and endings.  Just download the map, put it in your \"worlds\" folder and create a softcore character and you're ready to begin!\nFeatures:\n\tDesigned for 1 or 2 players!\n\t3 to 6-ish hours of gameplay per run\n\tOpen-world, non-linear progression\n\tUnique and varied environments, some completely optional to visit\n\tCountless secrets off-the-beaten-path for observant and adventurous players",
     "size": "",
     "tags": [
       "15"
