@@ -1,5 +1,418 @@
 [
   {
+    "id": "2b51c500-8b08-4e72-a384-8da1e82f43d6",
+    "type_id": "0",
+    "name": "Coopventure 2",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Coopventure_2/Coopventure_2.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Coopventure_2/Coopventure_2_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Coopventure_2/Coopventure_2_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Coopventure_2/Coopventure_2_03.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Coopventure_2/Coopventure_2_Classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "Tutajkk",
+    "description": "Coopventure 2 is a two player cooperative puzzle map, which solely focuses on puzzles and platforming. It takes about 2-3 hours to complete.\nImportant: Most of the items and mechanics the map uses doesn't work properly on version 1.4, so you will have to use an earlier version.\nHost a game, and set a password, so other random people can't accidentally join you. Invite your friend and wait for them to join, then you can start playing the map!\nSome form of voice communication is highly recommended.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "e1d7e028-5451-43ed-ae62-c259f4d4b1f2",
+    "type_id": "0",
+    "name": "Micro World",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Micro_World/Micro_World.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Micro_World/Micro_World_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Micro_World/Micro_World_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Micro_World/Micro_World_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Micro_World/Micro_World_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Micro_World/Micro_World_Master.wld"
+    },
+    "author_name": "calebspjute",
+    "description": "Remember back when Biah released Micro Terraria World, a map compressing the entire world into a small corner, having most every item obtainable from an older version of the game? Well, it's been a bunch of \"final\" updates since then, and Terraria has introduced a couple of new mini-biomes and structures, such as the underground desert, marble, granite, and shimmer.\n\nWell this map has it all, folks! Spouting a little bit larger space, forcibly sized rather than built into a larger world of unbreakable bricks, every single natural chest item is included, along with a slew of crystal hearts, mana crystals, traps, floating islands, and a pre-built hallow biome so you don't have to worry about making your own once you hit hardmode!",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "79fbe313-61fa-4d79-8d94-7d9505ebb0c0",
+    "type_id": "0",
+    "name": "Tree of Life",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Tree_of_Life/Tree_of_Life.jpeg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Tree_of_Life/Tree_of_Life_01.jpeg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Tree_of_Life/Tree_of_Life_02.jpeg",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Tree_of_Life/Tree_of_Life_03.jpeg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Tree_of_Life/Tree_of_Lif_Journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "",
+    "description": "This is \"Tree of Life\", a hand crafted giant living tree village in a large world infected by the crimson. The entire tree counts as valid housing, was designed to and can fit all of the NPC's, has a teleport system for easy travel, and large enough to be safe from blood moon spawns. The entrances are controlled by buttons only players can activate. Crimson should not be able to spread to it. Most of the game's crafting stations are present and most rooms feature their own furniture set - players can choose to remove if desired. It is insulated from meteors with cloud islands above (not pictured).\nVery little other modification was done to this map except for some landscaping/coloring. The map has a pyramid, hidden sword shrine, and plenty of giant living trees/cloud islands. Check below the tree for a root that goes down to some mine cart tracks to get started underground.\nEnjoy exploring!",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "6f85e7f9-3661-4389-8ebc-40a73f5cd50c",
+    "type_id": "0",
+    "name": "Subraria",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Subnautica/Subnautica.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Subnautica/Subnautica_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Subnautica/Subnautica_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Subnautica/Subnautica_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Subnautica/Subnautica_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Subnautica/Subnautica_05.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Subnautica/Subnautica_Classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "ForteChiller",
+    "description": "Subnautica is a survival game where the end goal is to escape the planet after being cured of the kharaa virus using the rocket(thats all the spoilers you get). This map aims to recreate Subnautica within the confines of 2D and with Terraria's limited colors and tiles to work with. Each biome in Terraria will translate to biomes from Subnautica, including the crash site and islands. I will be making new biomes based on the ones from Subnautica and eventually I will be implementing a whole \"Arctic\" biome as Subnautica is getting a DLC expansion with said biome.\nCurrent Features:\n-Tutorial Segment\n-Lifepod 5\n-Safe Shallows\n-Terraforming\n-Kelp Forest\n-Complete Aurora\n-Grassy Plateaus\n-Jellyshroom Caves with the Degasi base\n-Sunbeam\n-Mountain Island\n-Quarantine Enforcement Platform\n-Cyclops\n-Seamoth\n-Prawn suit\n-Reaper Leviathans\n-Mushroom Forest\n-Wrecked lifepods\n-Lost River\n-Juvenile Ghost Leviathan boss fight\n-Giant Cove Tree\n-Gargantuan Leviathan Fossil\n-Floating Island",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "3761322c-cc2b-4299-8783-ab588d360d10",
+    "type_id": "0",
+    "name": "Terratale",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_06.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_Classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "ForteChiller",
+    "description": "Undertale is a game created by Toby Fox. This map is a recreation of his game and it's story as best as can be done. Terraria being a very different game from Undertale makes this map deviate in terms of gameplay. There are parkour challenges as oppose to standard puzzles like the ones seen in Undertale and the map has a metroidvania feel to it as well. This map is in the middle of development and content will keep being added even when the map is completed as a modded version and \"Hard Mode\" versions of the map must be added and zipped along with the original map.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "fa85f488-f4fd-469e-a54f-b8e5f6c5a2fa",
+    "type_id": "0",
+    "name": "SmallestBlock",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/SmallestBlock/SmallestBlock.jpeg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/SmallestBlock/SmallestBlock_01.jpg"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/SmallestBlock/SmallestBlock_Journey.wld",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/SmallestBlock/SmallestBlock_Master.wld"
+    },
+    "author_name": "kamesheckn1",
+    "description": "As you begin your journey, you'll find yourself on a minuscule island, isolated from the vast world. Your ingenuity and resourcefulness will be put to the test as you navigate the challenges that lie ahead. With only a handful of blocks and items at your disposal, you must carefully strategize your every move to thrive and complete the map.\nOne notable feature of this map is the introduction of a new liquid in Terraria version 1.4.4 called Shimmer. When you toss any item into the Shimmer, it undergoes a magical transformation. It can either be converted into a unique item or be deconstructed to yield essential resources that are vital for your progress. Utilize this mechanic wisely to maximize your chances of success.\nAdditionally, this map incorporates the \"Get fixed boy\" seed mechanic, a new addition to Terraria. By utilizing this seed, you can expect an increased level of difficulty, making your journey even more challenging. Prepare yourself for surprises as the drops from defeated enemies will continue to amaze and astound you.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "6c58ee93-21ac-4f04-be38-9968a80df00a",
+    "type_id": "0",
+    "name": "Loot Only Challenge",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Loot_Only_Challenge/Loot_Only_Challenge.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Loot_Only_Challenge/Loot_Only_Challenge_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Loot_Only_Challenge/Loot_Only_Challenge_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Loot_Only_Challenge/Loot_Only_Challenge_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Loot_Only_Challenge/Loot_Only_Challenge_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Loot_Only_Challenge/Loot_Only_Challenge_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Loot_Only_Challenge/Loot_Only_Challenge_06.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Loot_Only_Challenge/Loot_Only_Challenge_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Loot_Only_Challenge/Loot_Only_Challenge_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Loot_Only_Challenge/Loot_Only_Challenge_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Loot_Only_Challenge/Loot_Only_Challenge_Master.wld"
+    },
+    "author_name": "mulletrock",
+    "description": "The goal is to beat the game with only items obtained from Monster drops! There are 24 Biome Islands and 10 Boss Arenas you can teleport to from a hub! The map comes with everything you will need to get started. The main housing area has the Guide, Arms Dealer, Goblin Tinkerer, Merchant and Nurse. There are 8 Locked Chests that contain Life Crystals and other accessories that aren’t necessary for completing but will help a lot. That’s about it!\n\nNotes:\nThere are 6 Biome Chests that each have their respective Biome Chest Weapon and 2 accessories. There is a Golden Chest that contains 9 Life Crystals and some starter accessories but can only be opened after Skeletron is defeated.\nThere is a Locked Shadow Chest as well but it can only be reached once you have obtained a Rod of Discord, this chest has the remaining 6 life crystals in it",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "ab4d8419-8809-41f7-9f4c-eb53a2e7369e",
+    "type_id": "0",
+    "name": "Biome Labyrinth",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Biome_Labyrinth/Biome_Labyrinth.jpeg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Biome_Labyrinth/Biome_Labyrinth_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Biome_Labyrinth/Biome_Labyrinth_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Biome_Labyrinth/Biome_Labyrinth_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Biome_Labyrinth/Biome_Labyrinth_04.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Biome_Labyrinth/Biome_Labyrinth_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Biome_Labyrinth/Biome_Labyrinth_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Biome_Labyrinth/Biome_Labyrinth_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Biome_Labyrinth/Biome_Labyrinth_Master.wld"
+    },
+    "author_name": "AndyBun",
+    "description": "Small map filled end-to-end with mazes\n\t\tEach biome represented as its own maze\n\t\tUnlock new areas as you progress\n\nFind a chest for each boss\n\t\tThe sequel to All Boss Battles Arenas\n\t\tPlenty of boss-summoning items\n\t\tThemed weapons and armor\n\t\tSee how many you can beat using only items from their chest!",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "ec173e0a-a191-4561-9f97-4638ebf23e82",
+    "type_id": "0",
+    "name": "Simple Warehouse",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Simple_Warehouse/Simple_Warehouse.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Simple_Warehouse/Simple_Warehouse.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Simple_Warehouse/Simple_Warehouse_Classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "the_architect01",
+    "description": "A simple warehouse that can be used for mass item storage.\nComes with the following:\n\t\t1. A modest sized warehouse.\n\t\t2. A Guide and a Clumsy Slime in the basement section of the warehouse.\n\t\t3. Two platform based layers in addition to the torch lit first floor and basement.\n\t\t4. A small sum of resources to adjust the warehouse to your preferences.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "c194faa1-707f-467a-9b07-7c19e8062eb8",
+    "type_id": "0",
+    "name": "Fish World Survival",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Fish_World_Survival/Fish_World_Survival.jpeg",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Fish_World_Survival/Fish_World_Survival_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Fish_World_Survival/Fish_World_Survival_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Fish_World_Survival/Fish_World_Survival_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Fish_World_Survival/Fish_World_Survival_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Fish_World_Survival/Fish_World_Survival_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Fish_World_Survival/Fish_World_Survival_06.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Fish_World_Survival/Fish_World_Survival_07.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Fish_World_Survival/Fish_World_Survival_08.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Fish_World_Survival/Fish_World_Survival_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Fish_World_Survival/Fish_World_Survival_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Fish_World_Survival/Fish_World_Survival_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Fish_World_Survival/Fish_World_Survival_Master.wld"
+    },
+    "author_name": "mulletrock",
+    "description": "Welcome to Fish World Survival! The goal is to beat the game with items only obtained from Fishing and Angler Rewards. There are 16 Biome Islands, 10 boss arenas and a Shimmer Island you can teleport to from a hub. Each island is themed in their respective Biome. Map comes with all the items you will need to get started, also has Angler in the Ocean and Goblin Tinkerer in the Underground\nNotes and Tips:\n\t\tThere is a chest in the crafting room that has 10 life crystals to help speed up time, but they're locked behind a shadow chest!\n\t\tCollecting fallen stars while waiting for the next angler quest early is helpful, best place to get them is on the moon lord/mechanical boss arena\n\t\tThrowing unwanted potions into the Shimmer is useful for gathering ingredients for more useful potions\n\t\tGolden Keys are located in a chest in the dungeon, the Hellforge is in a locked chest in the crafting room\n\t\tSometimes the Traveling Merchant will spawn on top of the biome islands or on a pillar platform and fall down to the underworld, he mostly spawns in with the Goblin Tinkerer though\n\t\tSet spawn point to the Ocean Biome bed to get to the Angler faster",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "3a635bf9-161c-4638-bc60-fc9ec1b6bd07",
+    "type_id": "0",
+    "name": "Hazey Storage Center",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Hazey_Storage_Center/Hazey_Storage_Center.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Hazey_Storage_Center/Hazey_Storage_Center_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Hazey_Storage_Center/Hazey_Storage_Center_Master.wld"
+    },
+    "author_name": "imhazeyong",
+    "description": "This map was made using TEDIT, Storage Area with a couple statues, Surrounded by stone. This world is only for storage purposes, and has no other uses. Everything in the world was deleted and replaced with stone, and I added in my little custom storage center so you may use this world to organize some items and just have extra storage. ",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "9789b5d3-4fed-468a-8f21-b09edb550c99",
+    "type_id": "0",
+    "name": "Brutal Skyblock",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Brutal_Skyblock/Brutal_Skyblock.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Brutal_Skyblock/Brutal_Skyblock_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Brutal_Skyblock/Brutal_Skyblock_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Brutal_Skyblock/Brutal_Skyblock_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Brutal_Skyblock/Brutal_Skyblock_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Brutal_Skyblock/Brutal_Skyblock_Master.wld"
+    },
+    "author_name": "freedbot",
+    "description": "What is a \"skyblock\" map?  It's a map where you start on an incredibly small \"floating island\" surrounded by void.  It may have a tree or water or lava on it, or it may literally just be dirt.  Often there are other small islands with different resources that you have to build to.  Why do people play skyblocks?  If you like a game, but are bored of it, a skyblock brings a fresh experience and new way to play.  It's also incredibly satisfying to start with nothing and build a whole world yourself, the way you want it to be.\nSo what makes Brutal Skyblock different and better than the other maps?\n\t\tIt's harder.  You have to face real challenges even before you start fishing... unless you chose Baby Mode.\n\t\tIt's easier too.  What?  The second island let's you select your skyblock difficulty: Baby, Veteran, or Brutal Legend.  It's 3 totally different maps in one!\n\t\tCompletionism.  All bosses, events, NPC's, biomes, accessories, armor, traps, and 99% of weapons can be gotten in this map.\n\t\tMobile compatible.  I use mobile map files.  When loaded on PC, the game just silently updates them.  No issues.\n\t\tMultiplayer friendly.  I give out just a little bit extra of certain non-renewable resources to make the map \"comfortable\" for about 4 players.\n\t\tTiny! The world uses a crazy custom 2,000x800 block world size. About 1/2 the size of a small world.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "e2d7ff88-5426-4c02-880f-385ec7a2ac6e",
+    "type_id": "0",
+    "name": "SkyTerra",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/SkyTerra/SkyTerra.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/SkyTerra/SkyTerra_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/SkyTerra/SkyTerra_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/SkyTerra/SkyTerra_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/SkyTerra/SkyTerra_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/SkyTerra/SkyTerra_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/SkyTerra/SkyTerra_Master.wld"
+    },
+    "author_name": "ZapdosGuy29",
+    "description": "Playing Skyblock, have you ever wondered about the possibilities of survival with a minimum of resources? Do you want to get a unique gaming experience in Terraria? This map is perfect for you!\nYou will appear on a small piece of land, in the middle of the void. Your task is to show your knowledge of Terraria and your resourcefulness to complete hidden in map tasks?\nYou can play SkyTerra with your friends. The files contains four versions of the map with different internal difficulty levels.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "bdc02e99-f2e2-44ed-8ffc-c8cd71bcacef",
+    "type_id": "0",
+    "name": "Arti's Challenge World",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Artis_Challenge_World/Artis_Challenge_World.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Artis_Challenge_World/Artis_Challenge_World.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Artis_Challenge_World/Artis_Challenge_World_Classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "fractsstudio",
+    "description": "100% Guaranteed FAILURE\n-very bad spawn\n-perilous to find trees\n-use resources wisely\n-everything one shots you\n-you die in the dark",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "c889e037-491f-4ddf-9701-b667e1baa43f",
+    "type_id": "0",
+    "name": "Golf world",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Golf_world/Golf_world.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Golf_world/Golf_world.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Golf_world/Golf_world_Journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "designershark44",
+    "description": "If you like golf in terraria, good! You can download a lot of maps of golf. Mine and some other guys maps that looks amazing!\nAs you progress through the course you will see multiple houses along the way, each with unique Architectural styles. So I hope you enjoy! \nAlso when you finish the Ninth hole, go to the right and you will find a pirate ship, there you will find a teleporter to the back 9 of my golf course.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
+    "id": "4eaf9c0b-028e-4866-8fd4-43560a7fa7c2",
+    "type_id": "0",
+    "name": "Modern Paradise",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Modern_Paradise/Modern_Paradise.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Modern_Paradise/Modern_Paradise.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Modern_Paradise/Modern_Paradise_Master.wld"
+    },
+    "author_name": "47syn",
+    "description": "Everything in the world is brand new.\n\t\t- The house has 6 floors and is made of smooth marble.\n\t\t- Multiple crafting stations for pre - hardmode through hardmode \n\t\t- Multiple rooms for NPCS \n\t\t- many chest for item storage \n\t\t- 3 main rooms for players during playthroughs ",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2023-10-27 22:14:30.089"
+  },
+  {
     "id": "a6aac043-163d-4190-b124-349b06d26e8e",
     "type_id": "0",
     "name": "Void city",
