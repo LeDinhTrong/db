@@ -1,5 +1,107 @@
 [
   {
+    "id": "6cf4406a-1d0f-4009-8849-ff711913ebdb",
+    "type_id": "0",
+    "name": "Shimmering Skyblock",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/shimmering_skyblock/shimmering_skyblock.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/shimmering_skyblock/shimmering_skyblock.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/shimmering_skyblock/shimmering_skyblock_journey.wld",
+      "1": "",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/shimmering_skyblock/shimmering_skyblock_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/shimmering_skyblock/shimmering_skyblock_master.wld"
+    },
+    "author_name": "mulletrock",
+    "description": "This is a Skyblock survival map with added Shimmer. You only start with a chest with one Jungle seed and that's it! It is highly recommended to play as a Mediumcore player in order to progress unless playing in Journey mode. It is possible to progress as a Classic Character but it is extremally grindy at the start. There is a Demon Alter 377 blocks straight down. The \"Dungeon\" is 1,297 blocks to the east and the Lihzahrd Alter is 764 blocks west and 369 blocks down. Good luck!\n\nTips:\nSimply throw your copper items into the shimmer and collect the copper ore and wood. Jump off and die to reset your tools and repeat. You can turn the ore and wood into stone and dirt as well\nMaking housing out of stone is faster than gathering wood\nOnce you have a house and 50 silver coins, you can buy anvils from the Merchant for iron equipment\nMake an iron bucket and head down to the Underworld to gather lava from Lava Slimes and turn that into a bucket of water to unlock fishing as well as making a Jungle with those seeds\nOnce you defeat the Eye of Cthulhu you can buy Grass seeds and acorns from the Dryad\nTurn potions into bottles and then into sand. You can make a Sandgun from turning mining potions into ingredients for Antlion Mandibles and getting topaz from Gem Bunnies or Squirrels\nTo get the Angler you will need at least 3 sandblocks in a 1x3 pattern and just a little bit of water for him to spawn",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "a91d114f-d782-4d89-a8fb-c3ba1b93ae22",
+    "type_id": "0",
+    "name": "OneChunk",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/OneChunk/OneChunk.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/OneChunk/OneChunk.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/OneChunk/OneChunk_Classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "noxgame1230",
+    "description": "OneChunk is a unique survival experience that confines your space to a single chunk of 128 blocks.\nYou find yourself on a solitary island, surrounded by infinite void.\nYour task is to survive, utilizing the resources available within this one chunk.\nCan you build a shelter, gather food, and survive using only what this small piece of the world offers?\nThis map is a real challenge for Terraria players who are looking for new and exciting ways to play.\nAre you ready for the challenge? Remember, survival is just the beginning.\nYour creativity and survival skills will be tested like never before. Good luck!",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "97bab88a-fa67-48dc-a2fa-0c3a9399794a",
+    "type_id": "0",
+    "name": "Terratale",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_1.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_2.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_3.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_4.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_5.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_6.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_7.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "ForteChiller",
+    "description": "Undertale is a game created by Toby Fox. This map is a recreation of his game and it's story as best as can be done. Terraria being a very different game from Undertale makes this map deviate in terms of gameplay. There are parkour challenges as oppose to standard puzzles like the ones seen in Undertale and the map has a metroidvania feel to it as well. This map is in the middle of development and content will keep being added even when the map is completed as a modded version and \"Hard Mode\" versions of the map must be added and zipped along with the original map. ",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "bc9d4499-a963-4b1d-916e-55d5ceb64ed5",
+    "type_id": "0",
+    "name": "Skyblock Islands",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/skyblock_islands/skyblock_islands.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/skyblock_islands/skyblock_islands.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/skyblock_islands/skyblock_islands_expert.wld",
+      "3": ""
+    },
+    "author_name": "S2TsUkII",
+    "description": "This map is a simple skyblock that I created in my spare time, the map has 28 life crystals, enough for 2 or 3 people, but it is possible to get life crystals in the gold crates, all bosses are reachable, but how I made the map on mobile, it doesn't have a demonic altar (I was inspired by the skyblock Islands map to make the chest island)\n\nList of islands:\n(There are 3 types of islands: those in space, surface islands and underground islands)\n\nSpace:\nChest island (on top of the starting island): there is a chest with the starting items (such as: lava, honey water, etc.)\nFishing island: (to the left of the chest island): it is a fishing island with some bait\nDungeon island: (to the right of the chest island): it is the dungeon island\n\nSurface:\nCrimson Island (left)\nIce Island (also on the left)\nOcean (also on the left)\nDesert island (right)\nJungle Island (also on the right)\nOcean (but not)\n\nUnderground:\nGranite (below the starting island)\nLihzard temple (left)\nHive (left)\nJungle underground (left)\nMarble cave (left)\nIce cave (left)\nGlowing mushrooms (beneath the granite)\nUnderground Crimson (right)\nUnderground corruption (right)\n(Underground desert and the dungeon don't count as biomes because I made this map on mobile and that's why I couldn't place the desert/dungeon/granite walls)",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
     "id": "2b51c500-8b08-4e72-a384-8da1e82f43d6",
     "type_id": "0",
     "name": "Coopventure 2",
@@ -95,35 +197,6 @@
     },
     "author_name": "ForteChiller",
     "description": "Subnautica is a survival game where the end goal is to escape the planet after being cured of the kharaa virus using the rocket(thats all the spoilers you get). This map aims to recreate Subnautica within the confines of 2D and with Terraria's limited colors and tiles to work with. Each biome in Terraria will translate to biomes from Subnautica, including the crash site and islands. I will be making new biomes based on the ones from Subnautica and eventually I will be implementing a whole \"Arctic\" biome as Subnautica is getting a DLC expansion with said biome.\nCurrent Features:\n-Tutorial Segment\n-Lifepod 5\n-Safe Shallows\n-Terraforming\n-Kelp Forest\n-Complete Aurora\n-Grassy Plateaus\n-Jellyshroom Caves with the Degasi base\n-Sunbeam\n-Mountain Island\n-Quarantine Enforcement Platform\n-Cyclops\n-Seamoth\n-Prawn suit\n-Reaper Leviathans\n-Mushroom Forest\n-Wrecked lifepods\n-Lost River\n-Juvenile Ghost Leviathan boss fight\n-Giant Cove Tree\n-Gargantuan Leviathan Fossil\n-Floating Island",
-    "size": "",
-    "tags": [
-      "15"
-    ],
-    "hot_priority": "1",
-    "download_count": "0",
-    "createTime": "2023-10-27 22:14:30.089"
-  },
-  {
-    "id": "3761322c-cc2b-4299-8783-ab588d360d10",
-    "type_id": "0",
-    "name": "Terratale",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale.png",
-    "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_02.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_03.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_04.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_05.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_06.png"
-    ],
-    "difficulty": {
-      "0": "",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_Classic.wld",
-      "2": "",
-      "3": ""
-    },
-    "author_name": "ForteChiller",
-    "description": "Undertale is a game created by Toby Fox. This map is a recreation of his game and it's story as best as can be done. Terraria being a very different game from Undertale makes this map deviate in terms of gameplay. There are parkour challenges as oppose to standard puzzles like the ones seen in Undertale and the map has a metroidvania feel to it as well. This map is in the middle of development and content will keep being added even when the map is completed as a modded version and \"Hard Mode\" versions of the map must be added and zipped along with the original map.",
     "size": "",
     "tags": [
       "15"
