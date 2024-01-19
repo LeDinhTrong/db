@@ -1,5 +1,250 @@
 [
   {
+    "id": "e6472211-bee6-4ac6-8e0a-d0dc7bf13bcb",
+    "type_id": "0",
+    "name": "Green square of disgust",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/green_square_of_disgust/green_square_of_disgust.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/green_square_of_disgust/green_square_of_disgust_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/green_square_of_disgust/green_square_of_disgust_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/green_square_of_disgust/green_square_of_disgust_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/green_square_of_disgust/green_square_of_disgust_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/green_square_of_disgust/green_square_of_disgust_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/green_square_of_disgust/green_square_of_disgust_master.wld"
+    },
+    "author_name": "Parsifal",
+    "description": "I did not think about the creation of the world and its name, because I just played,\nI am not an architect or a designer, so do not judge, I promised to upload the world in which I PLAYED, I just wanted to show how I went through the game on the master,\nYes, and the pictures, this is the same character on which I played the game.\nCool???",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "a7bef84a-5f76-418a-a5b4-ef1510562708",
+    "type_id": "0",
+    "name": "Game Town v2",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/game_town_v2/game_town_v2.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/game_town_v2/game_town_v2_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/game_town_v2/game_town_v2_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/game_town_v2/game_town_v2_03.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/game_town_v2/game_town_v2_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/game_town_v2/game_town_v2_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/game_town_v2/game_town_v2_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/game_town_v2/game_town_v2_master.wld"
+    },
+    "author_name": "Kostya",
+    "description": "Update v2\nUpdated city of stories. somewhere you will find Shish, and somewhere treasures. Read the labels (if any).\n\nUpdate:\n1.Added new houses.\n2. there are more secrets.\n3.appeared nps.\n\nUpdate\nA city that will not be updated often but will be made with pleasure. Where one player built houses for a long time. You can see later how things have changed. The world itself is passed and you will not have to suffer. And the most important thing is spawn now it will change but the idea will remain.\nDescription from the author of the map\nThe city of flowers is just a place with people and things. If you can't see part of the world, then you need to put on the glasses in the Chest near the door of the first floor. Main building!!!",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "27c09f49-4130-404f-90aa-c4e1184a2c37",
+    "type_id": "0",
+    "name": "Endless survival 1.4.4",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/endless_survival_1_4_4/endless_survival_1_4_4.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/endless_survival_1_4_4/endless_survival_1_4_4_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/endless_survival_1_4_4/endless_survival_1_4_4_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/endless_survival_1_4_4/endless_survival_1_4_4_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/endless_survival_1_4_4/endless_survival_1_4_4_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/endless_survival_1_4_4/endless_survival_1_4_4_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/endless_survival_1_4_4/endless_survival_1_4_4_master.wld"
+    },
+    "author_name": "TerraZel",
+    "description": "Update v2\n\nWhat's new?\nNew things from 1.4.4 more things in hell\nThe gallery will now have pictures with a sign where there will be mini jokes\n•new items for pvp mini-game\n•All slimes like them 8\n•New loot in different places\n• There's a new thing at the bottom of the spawn\n• removed a lot of debris\n• Farm for places have become better\n• now there is a fire at the spawn (the most top info)\n• Well, added new blocks\nQuestions?\nWhy is it taking so long? - It's just that there is not enough time to create a map\nDownload play or take loot\n\nUpdate\nHere is the map update. Added a new loot from 1. 4. 4 and another loot. Download and play. Track. Hell update will be farms etc for everyone bye 🙂",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "c6ef6adc-e60a-4758-b36d-29c2c40e9fbc",
+    "type_id": "0",
+    "name": "Amogus",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/amogus/amogus.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/amogus/amogus_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/amogus/amogus_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/amogus/amogus_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/amogus/amogus_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/amogus/amogus_master.wld"
+    },
+    "author_name": "Fiolleto",
+    "description": "This is an ordinary map where I survived. Stupidly there are things and stupidly I don’t know who wants to play.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "8c87d42c-1ea5-4297-a470-232dfdb16a53",
+    "type_id": "0",
+    "name": "Hardcore Sky Block",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/hardcore_sky_block/hardcore_sky_block.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/hardcore_sky_block/hardcore_sky_block_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/hardcore_sky_block/hardcore_sky_block_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/hardcore_sky_block/hardcore_sky_block_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/hardcore_sky_block/hardcore_sky_block_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/hardcore_sky_block/hardcore_sky_block_master.wld"
+    },
+    "author_name": "Gerald",
+    "description": "My first map with 3 islands. The first one is on spawn, the second one (golem's mini dungeon) is under the main one, and the third one (corruption) is to the right of the main one. If you are looking for a map for survival and difficult passage, then this map is definitely for you.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "818a466f-817f-4535-9155-e9afe5fa8f64",
+    "type_id": "0",
+    "name": "House in the Rock",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/house_in_the_rock/house_in_the_rock.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/house_in_the_rock/house_in_the_rock_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/house_in_the_rock/house_in_the_rock_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "4eJloBeK",
+    "description": "This is an atmospheric house in the rock with an afk farm of invasions and some events. There are also 3 teleports - 1-farmilka, 2-hell, 3-dungeon. There are also 4 sets for a comfortable start of the game, all sets are the same (except for costumes). There is a chest with a Christmas tree and decorations for it, in the same chest there are a lot of gifts.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "47667a67-6667-4807-b617-a56a3ea99493",
+    "type_id": "0",
+    "name": "SUPER FLAT WORLD",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/super_flat_world/super_flat_world.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/super_flat_world/super_flat_world.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/super_flat_world/super_flat_world_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/super_flat_world/super_flat_world_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/super_flat_world/super_flat_world_expert.wld",
+      "3": ""
+    },
+    "author_name": "cool dude",
+    "description": "Flat world for buildings and other things in terraria adventure mode (adventure mode only, because there are already maps with classic mode). Hope that helped!\nThis map is for people and robots, for building pixel art or houses !!!",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "562229fa-72a2-4079-b124-0adc28d3930b",
+    "type_id": "0",
+    "name": "TOP 2.0",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/top_2_0/top_2_0.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/top_2_0/top_2_0_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/top_2_0/top_2_0_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/top_2_0/top_2_0_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "Neketa_172",
+    "description": "Update\nMy rebuilt world “TOP”\nHe became much more handsome.\n– Beautiful houses (except mushroom)\n- new items in my inventory\n– Opened the entire bestiary\nYou will find my things in the dresser of my house.\n\nDescription from the author of the map\nMy passed world\n– Zenith\n- Ankh Shield\n- Mobile phone\n– All pylons\n– Terrarium\n- Wand of Harmony\n– Bestiary 79% (I'm too lazy)\n\nYou will find my inventory in a safe in my house.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "bc730a85-88ab-48f8-85c5-27b43322de2c",
+    "type_id": "0",
+    "name": "GG map",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/gg_map/gg_map.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/gg_map/gg_map_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/gg_map/gg_map_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "Pavel",
+    "description": "Here I went through the terraria 3 times, I hope you enjoy what I did for 40 hours. I was very pleased to pass the terraria and I hope you will also be happy to run or fly in my world",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "a014df80-1991-4d2d-8aec-4b3f96eabdfd",
+    "type_id": "0",
+    "name": "Home in the wood map",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/home_in_the_wood_map/home_in_the_wood_map.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/home_in_the_wood_map/home_in_the_wood_map.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/home_in_the_wood_map/home_in_the_wood_map_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "negr2000",
+    "description": "This map is in pre-hardmode and a tree house is waiting for you here. The game version should be XNUMX .NPCs like a goblin engineer are waiting for you here. In the chests that are in the room where you appear, there are a few things. There are also XNUMX killed bosses: the eye of cthulhu, the king of slugs and the brain of cthulhu.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
     "id": "6cf4406a-1d0f-4009-8849-ff711913ebdb",
     "type_id": "0",
     "name": "Shimmering Skyblock",
