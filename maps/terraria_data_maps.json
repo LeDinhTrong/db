@@ -51,15 +51,15 @@
     "id": "97bab88a-fa67-48dc-a2fa-0c3a9399794a",
     "type_id": "0",
     "name": "Terratale",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_1.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_2.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_3.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_4.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_5.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_6.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/terratale/terratale_7.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_1.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_2.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_3.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_4.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_5.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_6.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/Terratale/Terratale_7.png"
     ],
     "difficulty": {
       "0": "",
