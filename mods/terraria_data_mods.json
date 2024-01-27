@@ -1,1 +1,21 @@
-[]
+[
+    {
+        "id": "e215428a-c190-4308-a20c-98799d36c7b6",
+        "type_id": "4",
+        "name": "Night's Conversion",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/nights_conversion/nights_conversion.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/nights_conversion/nights_conversion.png"
+        ],
+        "difficulty": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/nights_conversion/nights_conversion.tmod",
+        "author_name": "SENSE",
+        "description": "What is Night's Conversion?\nNight's Conversion allows you to use the properties of every sword that went into the Night's Edge. When using Night's Conversion, you can craft 3 new swords, each of which have some relation to one of the swords that went into the Night's Edge. The regular Night's Edge is assumed to be the Light's Bane version for this mod.\n\nWhat does Night's Conversion add?\nThe first sword added is the Night's Katana. The Night's Katana has the added ability of autoswing, inherited from the Muramasa. While swinging the sword, monster spawns are also increased, due to the fact that you receive the Water Candle debuff.\nThe second sword added is the Night's Jungle. The Night's Jungle has the ability to poison enemies on contact, inherited from the Blade of Grass. Unlike the Blade of Grass, the Poisoned debuff is applied 100% of the time and lasts for 3 seconds.\nThe third sword added is the Night's Flame. The Night's Flame has the ability to burn enemies on contact, inherited from the Fiery Greatsword. The On Fire! debuff is always applied for 3 seconds.",
+        "size": "",
+        "tags": [
+            "0"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-27 22:14:30.089"
+    }
+]
