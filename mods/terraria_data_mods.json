@@ -1,8 +1,8 @@
 [
     {
         "id": "b7114391-f4f0-4ff4-a63d-c9fdb0ed96c9",
-        "type_id": "0",
-        "name": "Calamity Mod",
+        "type_id": "4",
+        "name": "Calamity Mod v2.0.1.3",
         "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/calamity/calamity.png",
         "images_url": [
             "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/calamity/calamity_01.png"
@@ -15,6 +15,462 @@
         },
         "author_name": "Fabsol",
         "description": "What is in Calamity Mod\n\t27 bosses and 12 minibosses\n\t100+ enemies\n\t5 city NPCs\n\t5 biomes and many new buildings\n\t1 event\n\t1 new playable class (based on Throwing from Terraria 1.3)\n\t1800+ items\n\t700+ weapons\n\t100+ blocks\n\t200+ pieces of furniture\n\t11 ores\n\t2 full difficulty levels above expert, separate from master\n\t50+ vanilla mechanic changes\n\t30+ new vanilla item recipes\n\tOver 450 tweaks and improvements to vanilla items.\n\tCross mod support for Thorium Mod",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "cde490a4-1b12-4f45-9bbd-8d678f10efdf",
+        "type_id": "4",
+        "name": "Overhaul v5.0",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/overhaul_v5_0/overhaul_v5_0.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/overhaul_v5_0/overhaul_v5_0.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/overhaul_v5_0/overhaul_v5_0.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "This is only a beta version of the Overhaul mod for Terraria 1.4 so far, so there are bugs and imperfections. But now you can download the mod and test it. According to the authors of the mod, this version is about 60%+ ready.\n\nWhat is the Terraria Overhaul mod\nThis is a huge mod that, instead of adding new content to the game, focuses on adding new game mechanics and completely overhauling existing ones.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "b70ee922-e7b3-45a3-ad6f-55654b9e9266",
+        "type_id": "4",
+        "name": "Bizarre Adventure v0.0.6.1",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/bizarre_adventure_v0_0_6_1/bizarre_adventure_v0_0_6_1.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/bizarre_adventure_v0_0_6_1/bizarre_adventure_v0_0_6_1.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/bizarre_adventure_v0_0_6_1/bizarre_adventure_v0_0_6_1.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "New version of TBA (Terrarian Bizarre Adventure) mod for Terraria 1.4. Mod (jojo mod) adds stands, abilities and items from the JoJo's Bizarre Adventure universe to Terraria.\nStands that are in fashion:\nStar platinum\nThe World\nKing Crimson\nAerosmith",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "e7d57a0d-7bb9-4b0d-8c6e-e3faa5992d9a",
+        "type_id": "4",
+        "name": "JoJoStands v0.3.3.1",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/jojo_stands_v0_3_3_1/jojo_stands_v0_3_3_1.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/jojo_stands_v0_3_3_1/jojo_stands_v0_3_3_1.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/jojo_stands_v0_3_3_1/jojo_stands_v0_3_3_1.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Another one dedicated to JoJo's Bizarre Adventure. The sprites here are worse than in Terrarian Bizarre Adventure but still pretty good. The main advantages of the mod are a large number of stands and the fact that their abilities are close to the original source.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "827124c5-e98d-4143-bc02-86d7540e728e",
+        "type_id": "4",
+        "name": "SGAmod v 3.630",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/SGAmod_v3_630/SGAmod_v3_630.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/SGAmod_v3_630/SGAmod_v3_630.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/SGAmod_v3_630/SGAmod_v3_630.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The mod adds new weapons, armor, mechanics and many other interesting content to Terraria. About 20 new bosses alone have been added. If you are tired of killing standard bosses, then this mod can diversify your battles\n\nTModLoader version v0.11.8.6",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "0d896205-447e-4c52-9054-f3067084778f",
+        "type_id": "4",
+        "name": "Cheat Panel (Cheat Sheet v0.6.6.4)",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/cheat_panel/cheat_panel.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/cheat_panel/cheat_panel.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/cheat_panel/cheat_panel.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "New version of \"Cheat Mod\" for Terraria. If you are not in the know, with this mod you can get any item, spawn enemies, remove debuffs and do a lot of other interesting things.\n\nTModLoader version v0.11.8.3",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "022c691b-fe04-47df-9795-6094d6b10fcf",
+        "type_id": "4",
+        "name": "SPLIT v 0.4.1.10",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/split_v0_4_1_10/split_v0_4_1_10.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/split_v0_4_1_10/split_v0_4_1_10.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/split_v0_4_1_10/split_v0_4_1_10.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The SPLIT mod adds new bosses, biomes, weapons, armor and many other interesting content to Terraria. There are even more bosses, NPCs and items in this new version of the mod.\n\nWhat's in fashion\n~ Over 700 new items - new unique weapons, armor sets, accessories and more! ~\n~ Over 40 new enemies with unique animations and behaviors ~\n~ 7 new bosses with unique AI ~\n~ 6 new city NPCs - each NPC has their own interesting items to sell, and some of them can trade your items for unique gear! ~\n~ Two new buildings - Stranded Ship and Underworld Domain! ~\n~ Russian language support! ~\n~ Support for the Boss Checklist mod by Jopojelly!\n\nTModLoader version v0.11.8.3",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "26dae149-08d9-4c8b-abf7-a10286087daf",
+        "type_id": "4",
+        "name": "Calamity v1.5",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/calamity_v1_5/calamity_v1_5.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/calamity_v1_5/calamity_v1_5.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/calamity_v1_5/calamity_v1_5.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "An update to one of the biggest mods for Terraria. In this version, the developers have added a new difficulty mode - Anger Mode and new mechanics. And also made a lot of changes to the balance of bosses and weapons. In addition, new accessories, weapons, a boss, furniture, ore, and much more were added to the game. You can read more about all the new features of this update at Calamity Mod Wiki.\n\nTModLoader version v0.11.8.5",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "b6da5ce2-ae02-44ba-b3eb-66be5db6300d",
+        "type_id": "4",
+        "name": "Dancing With The Dragon v0.38",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/dancing_with_the_dragon_v0_38/dancing_with_the_dragon_v0_38.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/dancing_with_the_dragon_v0_38/dancing_with_the_dragon_v0_38.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/dancing_with_the_dragon_v0_38/dancing_with_the_dragon_v0_38.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The mod adds summoned dragons to Terraria. According to the developer, dragons are suitable for any class. At the very beginning, you will receive a cub which you can pump into an adult dragon.\n\nWhat's in fashion\n- There are 11 types of young dragons in this version, and they don't have an evolutionary type yet.\n- Dragon control stick with four types of damage, sold by the Merchant.\n- Dragon Gene Petri Dish is sold by the Merchant and is used to create dragons.\n- After defeating the Eye of Cthulhu for the first time, materials for creating dragons will begin to drop in the world.\n\nTModLoader version v0.11.8.6",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "8d72b27a-0302-487e-bb43-aad1a15fe8c8",
+        "type_id": "4",
+        "name": "Archery Overhaul Mod v1.0.23",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/archery_overhaul_mod_v1_0_23/archery_overhaul_mod_v1_0_23.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/archery_overhaul_mod_v1_0_23/archery_overhaul_mod_v1_0_23.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/archery_overhaul_mod_v1_0_23/archery_overhaul_mod_v1_0_23.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Archery overhaul This is a mod that significantly changes archery in Terraria. In addition to the changes, new bows, accessories, arrows and other things related to archery will be added.\n\nWhat's in fashion\n... 50+ new bows\n... 25 new arrows\n... 6 new crossbow variants\n... 30 new accessories\n... 8 equipped quivers with visual effects\n... 4 new armor sets\n... 15 new materials\n... 5 new missile grenades\n... 8 new bags of loot\n... 1 new NPC\n... 1 new potion\n... 1 new enemy\n... 10+ new recipes for vanilla items",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "96b783a6-d4a0-45bd-b64b-f2a03c529008",
+        "type_id": "4",
+        "name": "Providence 0.1.8.0",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/providence_0_1_8_0/providence_0_1_8_0.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/providence_0_1_8_0/providence_0_1_8_0.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/providence_0_1_8_0/providence_0_1_8_0.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Providence is a pretty ambitious mod for Terraria. Now it is at the pre-alpha stage, so a lot of things are not completed yet and there are bugs. But now you can play, look at the new boss, items and other content.\n\nWhat's in fashion\n- One boss\n- One new ore\n- One new set of items\n- One subworld (incomplete)\n- New class: Cleric\n- New class: Ghost\n\nTModLoader version v0.11.8.5",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "dd6cf1c7-d381-4c2d-8db1-674628342b6c",
+        "type_id": "4",
+        "name": "Castled's Equilibrium v0.9.4",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/castleds_equilibrium_v0_9_4/castleds_equilibrium_v0_9_4.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/castleds_equilibrium_v0_9_4/castleds_equilibrium_v0_9_4.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/castleds_equilibrium_v0_9_4/castleds_equilibrium_v0_9_4.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Castled's Equilibrium is a mod that adds new bosses, new events and other content to Terraria. The mod is quite small, but those who like to fight with new bosses should like it.\n\nTModLoader version v0.11.8.4",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "0788a7de-ad1f-4842-8ce6-c39757c321cf",
+        "type_id": "4",
+        "name": "Anarchist mod v1.0.2",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/anarchist_mod_v1_0_2/anarchist_mod_v1_0_2.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/anarchist_mod_v1_0_2/anarchist_mod_v1_0_2.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/anarchist_mod_v1_0_2/anarchist_mod_v1_0_2.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Anarchist This is a content mod that adds new bosses, items, new NPCs and many more interesting things to Terraria)\n\nWhat does the mod add?\n-9 new bosses\n-1000+ items including\n-Multiple new enemies\n-3 new city characters\n-New class\n-New difficulty called Anarchy Mode\n-Lunar Lord Post, content with more on the way\n-And various changes in the quality of life\n\nTModLoader version v0.11.8.4",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "8f7e1fcc-c809-4a8b-a319-62f967fb6c88",
+        "type_id": "4",
+        "name": "No Breaking Doors v1.1.0.0",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/no_breaking_doors_v1_1_0_0/no_breaking_doors_v1_1_0_0.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/no_breaking_doors_v1_1_0_0/no_breaking_doors_v1_1_0_0.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/no_breaking_doors_v1_1_0_0/no_breaking_doors_v1_1_0_0.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "No Breaking Doors is a mod that prevents goblins from breaking doors. Now you can safely use the doors in your buildings and are not afraid that they will be broken.\n\nTModLoader version v0.11.8.4",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "40b608a3-e98f-43b6-88fc-51508757139e",
+        "type_id": "4",
+        "name": "Exitium Vitae v0.160",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/exitium_vitae_v0_160/exitium_vitae_v0_160.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/exitium_vitae_v0_160/exitium_vitae_v0_160.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/exitium_vitae_v0_160/exitium_vitae_v0_160.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "A small content mod for Terraria, most of the new items are weapons plus 5 items. The author of Exitium Vitae decided to make his rare and exclusive items drop throughout the game.\n\nWhat's in fashion\n- 20 weapons (6 legendary items, 1 relic item)\n- 5 items.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "fb4f1ce6-b7c9-49dd-97c0-417201ad9171",
+        "type_id": "4",
+        "name": "Litho's Armory mod v3.1.0.1",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/lithos_armory_mod_v3_1_0_1/lithos_armory_mod_v3_1_0_1.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/lithos_armory_mod_v3_1_0_1/lithos_armory_mod_v3_1_0_1.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/lithos_armory_mod_v3_1_0_1/lithos_armory_mod_v3_1_0_1.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Litho's Armory is a content mod geared towards adding new weapons to Terraria. Of course, the mod is not limited to adding weapons only, there are many other interesting items.\nWhat's in fashion\n- 639 new weapons and ammunition!\n- 4 new accessories!\n- 3 new armor sets and 2 new helmets for Shrumite!\n- 9 new toiletries!\n- 1 new mount!\n- 9 new tools!\n- 3 new hook!\n- 1 new pet!\n- 1 new ore!\n\nTModLoader version v0.11.8.4",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "a19c27bb-89f4-42e2-abcd-b1881464bcf7",
+        "type_id": "4",
+        "name": "Necromanced Bosses v0.4.1",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/necromanced_bosses_v0_4_1/necromanced_bosses_v0_4_1.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/necromanced_bosses_v0_4_1/necromanced_bosses_v0_4_1.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/necromanced_bosses_v0_4_1/necromanced_bosses_v0_4_1.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Necromanced Bosses is a content mod that adds new bosses, weapons and NPCs to Terraria. While this mod is quite small, let's hope that the authors continue to work on it and add more content. Plus, it would be nice if the authors worked on improving the sprites.\n\nTModLoader version v0.11.8.4",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "fd63a623-d551-4874-9516-7ff4955defc9",
+        "type_id": "4",
+        "name": "Sandwich Guy NPC v0.3.1",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/sandwich_guy_npc_v0_3_1/sandwich_guy_npc_v0_3_1.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/sandwich_guy_npc_v0_3_1/sandwich_guy_npc_v0_3_1.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/sandwich_guy_npc_v0_3_1/sandwich_guy_npc_v0_3_1.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "A small mod that adds a sandwich seller to Terraria. A total of 31 items can be purchased from the vendor (22 Sandwiches and 1 Energy Drink), plus he has a weapon, a Sandwich Guy Toiletry Set, and 3 accessories.\n\nTModLoader version v0.11.8.4",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "eca67668-f849-455d-a1e1-dd2fb03afa1e",
+        "type_id": "4",
+        "name": "Storm Diver's Mod v1.8.1.1",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/storm_divers_mod_v1_8_1_1/storm_divers_mod_v1_8_1_1.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/storm_divers_mod_v1_8_1_1/storm_divers_mod_v1_8_1_1.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/storm_divers_mod_v1_8_1_1/storm_divers_mod_v1_8_1_1.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Content mod that will change vanilla items and add new ones. In total, the author has created over 200 modified items, many of them are created from vanilla items, but modified ingredients have been added to their recipes.\n\nTModLoader version v0.11.8.4",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-01-19 22:14:30.089"
+    },
+    {
+        "id": "be94513b-76d6-4cd1-a1da-8d799afc0612",
+        "type_id": "4",
+        "name": "The Stars Above v0.5.5",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/calamity/calamity.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/calamity/calamity_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/calamity/calamity.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The mod adds new content and new Starfarer game mechanics to Terraria. It includes two aspects Umbral and Astral, each of which has its own abilities that you can combine.\nA bunch of new weapons, hundreds of dialogues and of course a new boss await you. By the way, The Stars Above is specially adapted and works fine with the mod Calamity.\n\nHow the Stars Above mod adapted to Calamity\nSeveral weapons have been specially adapted for the finale after the Moon Lord's Calamity mod, other weapons will be coming soon.\nThis weapon will have alternate crafting recipes and damage, scalable to the Calamity Mod if installed.\n\nTModLoader version v0.11.8.4",
         "size": "",
         "tags": [
             "15"
