@@ -459,12 +459,12 @@
         "id": "be94513b-76d6-4cd1-a1da-8d799afc0612",
         "type_id": "4",
         "name": "The Stars Above v0.5.5",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/calamity/calamity.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/the_stars_above_v0_5_5/the_stars_above_v0_5_5.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/calamity/calamity_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/the_stars_above_v0_5_5/the_stars_above_v0_5_5.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/calamity/calamity.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/the_stars_above_v0_5_5/the_stars_above_v0_5_5.tmod",
             "1": "",
             "2": "",
             "3": ""
