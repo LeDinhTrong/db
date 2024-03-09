@@ -1,5 +1,79 @@
 [
   {
+    "id": "9b9e4c09-f7c4-4821-86ea-64f50e701ea6",
+    "type_id": "0",
+    "name": "Calamity Infernum +Apachii Classes + Remnants Map",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/calamity_infernum_apachii_classes_remnants_map/calamity_infernum_apachii_classes_remnants_map.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/calamity_infernum_apachii_classes_remnants_map/calamity_infernum_apachii_classes_remnants_map.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/calamity_infernum_apachii_classes_remnants_map/calamity_infernum_apachii_classes_remnants_map_expert.wld",
+      "3": ""
+    },
+    "author_name": "kazooie_",
+    "description": "Tired of having to create structures with grandeur design that takes forever to build? Just want to hop in action and slay eldritch horrors beyond mortal comprehension? Look no further!\n\nThis map was made with Calamity Infernum, Remnants and Apachii's Classes Mod and it's purely untouched. You can choose not to install Apachii's Classes mod, but there may be some unloaded pink tiles here and there caused by the Lost Rune Fragment tile. Forgot to turn it off while making this world, sorry about that: As for the teleportation hub in the treehouse section, I only added a sky arena. Feel free to make your own arena.\nRegardless, most of the buildings are from other map mods here in Curse Forge such as Ultirarria and Christmas Village (credits to both v0id585 and BlueJay_T_Gaming for the wonderful structures). Suffice to say, this world has every Calamity essentials generated (Sunken sea, Hallowed Garden, Planetoids, and even Vernal Soil biome added by yours truly). Have fun!\n\nOPTIONAL: \nAlso, Magic Storage is included, located beneath the church. I also made an alternate map that doesn't have any Magic Storage in case that you don't have it installed. You can choose not to use the Magic Storage mod, but I highly recommend it given how many items Calamity has, or Stars Above, if that's up to your speed.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-08 22:14:30.089"
+  },
+  {
+    "id": "62a894c1-40eb-41d3-85d1-2c13763f98ff",
+    "type_id": "0",
+    "name": "The Torched Alchemy",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/the_torched_alchemy/the_torched_alchemy.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/the_torched_alchemy/the_torched_alchemy.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/the_torched_alchemy/the_torched_alchemy_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "dreamy_gates4974115",
+    "description": "There is tiny item-transmuting map!\nUse setup of two campfires to transmute torches, lighting right campfire first, then lighting left campfire stub, placing torches under right campfire, then clicking on blinking part of right campfire!\nThe leftmost block of three blocks between campfire will determine the direction of the CGO! To update it, update block above lihzahrd brick down in middle of 2 campfires, by placing torch, or toggling gemspark block, or toggling active/actuated block, or toggling conveyor belt. To get more torches, copy the crystal in the gap by that lihzahrd brick and hammered platform, then exchange it to torches by the merchant included!",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-08 22:14:30.089"
+  },
+  {
+    "id": "fc7352cf-df99-4062-bda0-79d88f4920eb",
+    "type_id": "0",
+    "name": "LuckyMap",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/luckymap/luckymap.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/luckymap/luckymap.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/luckymap/luckymap_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db/master/maps/Other/luckymap/luckymap_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "noxgame1230",
+    "description": "The map contains 4 levels of 5 points each with lucky blocks.\nThis Terraria map is full of surprises and adventures thanks to the Lucky Block mod.\nLucky Block is an item that causes random events when used.\nThey can be beneficial or catastrophic. You can find yourself in a rain of riches, or face a horde of zombies.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-08 22:14:30.089"
+  },
+  
+  {
     "id": "e6472211-bee6-4ac6-8e0a-d0dc7bf13bcb",
     "type_id": "0",
     "name": "Green square of disgust",

@@ -1,5 +1,29 @@
 [
     {
+        "id": "d16562a9-c73f-4238-9ced-ef89effdec8a",
+        "type_id": "4",
+        "name": "Jojos Caesar Sound",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/jojos_caesar_sound/jojos_caesar_sound.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/jojos_caesar_sound/jojos_caesar_sound.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db/master/mods/jojos_caesar_sound/jojos_caesar_sound.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "anvian",
+        "description": "JojosCaesarSound\nThis mod, named JojosCaesarSound, enhances the gaming experience in Terraria by adding a new sound effect. When a player is hit by a Boulder, the SHIZAAAAAAAAAAAA meme will start playing.\n\nCompatibility\nThis mod is compatible with tModLoader v2024.1.3.0 and Terraria v1.4.4.9",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
         "id": "b7114391-f4f0-4ff4-a63d-c9fdb0ed96c9",
         "type_id": "4",
         "name": "Calamity Mod v2.0.1.3",
